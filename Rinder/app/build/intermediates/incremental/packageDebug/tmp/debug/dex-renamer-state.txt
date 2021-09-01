@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Wed Sep 01 20:33:06 BDT 2021
+=======
+#Fri Aug 27 01:04:04 BDT 2021
+>>>>>>> master
 base.0=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

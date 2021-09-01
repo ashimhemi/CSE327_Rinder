@@ -8,10 +8,13 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pview.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_pview.xml"
     },
     {
+=======
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -32,10 +35,13 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\about_us.png"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_amni.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_amni.xml"
     },
     {
+=======
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
@@ -60,14 +66,24 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_studypartner.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_studypartner.xml"
     },
     {
+=======
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_studypartner.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_studypartner.xml"
+    },
+    {
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_registration.xml"
     },
@@ -84,6 +100,7 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\find_tutor.png"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_findstudyp.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_findstudyp.xml"
     },
@@ -92,6 +109,8 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\singlerow.xml"
     },
     {
+=======
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_page.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_home_page.xml"
     },
@@ -104,14 +123,24 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tutor.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\tutor.png"
     },
     {
+=======
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tutor.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\tutor.png"
+    },
+    {
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
@@ -136,14 +165,24 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shop.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\shop.png"
     },
     {
+=======
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shop.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\shop.png"
+    },
+    {
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_tutor.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_find_tutor.xml"
     },
@@ -152,14 +191,24 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+=======
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+>>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },

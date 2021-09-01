@@ -3,12 +3,19 @@
   <component name="FacetManager">
     <facet type="java-gradle" name="Java-Gradle">
       <configuration>
+<<<<<<< HEAD
         <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/../../build" />
+=======
+>>>>>>> master
         <option name="BUILDABLE" value="false" />
       </configuration>
     </facet>
   </component>
+<<<<<<< HEAD
   <component name="NewModuleRootManager" inherit-compiler-output="true">
+=======
+  <component name="NewModuleRootManager">
+>>>>>>> master
     <exclude-output />
     <content url="file://$MODULE_DIR$/../..">
       <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />

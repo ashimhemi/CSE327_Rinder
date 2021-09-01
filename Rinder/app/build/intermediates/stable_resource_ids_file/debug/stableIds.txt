@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com.example.rinder:layout/singlerow = 0x7f0b0070
 com.example.rinder:style/TextAppearance.AppCompat.Widget.Button = 0x7f0f0153
 com.example.rinder:layout/select_dialog_singlechoice_material = 0x7f0b005f
@@ -56,6 +57,74 @@ com.example.rinder:style/Widget.AppCompat.Light.ActionButton = 0x7f0f0221
 com.example.rinder:styleable/AppBarLayout = 0x7f10000a
 com.example.rinder:id/easeIn = 0x7f080096
 com.example.rinder:color/mtrl_btn_ripple_color = 0x7f050091
+=======
+com.example.rinder:id/visible = 0x7f08018c
+com.example.rinder:styleable/ScrimInsetsFrameLayout = 0x7f10005e
+com.example.rinder:style/Widget.MaterialComponents.Badge = 0x7f0f025f
+com.example.rinder:style/Widget.AppCompat.TextView.SpinnerItem = 0x7f0f0244
+com.example.rinder:style/Theme.MaterialComponents.Light.LargeTouch = 0x7f0f01c8
+com.example.rinder:style/Base.TextAppearance.AppCompat.SearchResult = 0x7f0f0025
+com.example.rinder:style/Widget.MaterialComponents.BottomAppBar = 0x7f0f0260
+com.example.rinder:style/Platform.MaterialComponents.Light = 0x7f0f00f2
+com.example.rinder:integer/design_snackbar_text_max_lines = 0x7f090006
+com.example.rinder:string/path_password_eye = 0x7f0e0068
+com.example.rinder:style/Widget.MaterialComponents.MaterialButtonToggleGroup = 0x7f0f0282
+com.example.rinder:styleable/ShapeableImageView = 0x7f100062
+com.example.rinder:style/Base.V21.Theme.MaterialComponents = 0x7f0f0084
+com.example.rinder:string/app_name = 0x7f0e001b
+com.example.rinder:id/parentRelative = 0x7f080109
+com.example.rinder:styleable/FontFamilyFont = 0x7f10002c
+com.example.rinder:style/Base.Widget.AppCompat.Toolbar = 0x7f0f00d2
+com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.Day = 0x7f0f0284
+com.example.rinder:styleable/ShapeAppearance = 0x7f100061
+com.example.rinder:style/Widget.AppCompat.Light.ActionButton.Overflow = 0x7f0f0223
+com.example.rinder:style/ShapeAppearance.MaterialComponents.SmallComponent = 0x7f0f0110
+com.example.rinder:dimen/mtrl_exposed_dropdown_menu_popup_elevation = 0x7f0600f8
+com.example.rinder:style/ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Window.Fullscreen = 0x7f0f011d
+com.example.rinder:id/deltaRelative = 0x7f080083
+com.example.rinder:styleable/MotionScene = 0x7f100053
+com.example.rinder:dimen/mtrl_textinput_end_icon_margin_start = 0x7f060138
+com.example.rinder:styleable/MaterialCardView = 0x7f100046
+com.example.rinder:style/Widget.MaterialComponents.Button.UnelevatedButton = 0x7f0f0272
+com.example.rinder:style/Base.TextAppearance.AppCompat.Body2 = 0x7f0f0015
+com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar = 0x7f0f0283
+com.example.rinder:style/Base.Theme.MaterialComponents.Dialog.Alert = 0x7f0f0059
+com.example.rinder:dimen/mtrl_calendar_month_horizontal_padding = 0x7f0600dd
+com.example.rinder:style/ThemeOverlay.MaterialComponents.ActionBar = 0x7f0f01d9
+com.example.rinder:style/Theme.Design.BottomSheetDialog = 0x7f0f0197
+com.example.rinder:styleable/MaterialCheckBox = 0x7f100047
+com.example.rinder:style/Theme.MaterialComponents.DayNight.DialogWhenLarge = 0x7f0f01ad
+com.example.rinder:style/ShapeAppearance.MaterialComponents.Tooltip = 0x7f0f0112
+com.example.rinder:string/clear_text_end_icon_content_description = 0x7f0e0022
+com.example.rinder:drawable/btn_radio_off_mtrl = 0x7f070064
+com.example.rinder:style/Widget.Design.ScrimInsetsFrameLayout = 0x7f0f024f
+com.example.rinder:layout/select_dialog_singlechoice_material = 0x7f0b005f
+com.example.rinder:style/TextAppearance.AppCompat.Widget.Button = 0x7f0f0153
+com.example.rinder:style/Widget.MaterialComponents.Button.TextButton.Dialog.Flush = 0x7f0f026e
+com.example.rinder:dimen/design_tab_text_size_2line = 0x7f060089
+com.example.rinder:string/common_google_play_services_update_title = 0x7f0e002f
+com.example.rinder:id/search_voice_btn = 0x7f080135
+com.example.rinder:style/Widget.MaterialComponents.Button.OutlinedButton.Icon = 0x7f0f026b
+com.example.rinder:layout/abc_activity_chooser_view = 0x7f0b0006
+com.example.rinder:style/Base.DialogWindowTitle.AppCompat = 0x7f0f000e
+com.example.rinder:id/action_divider = 0x7f08003b
+com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.HeaderLayout = 0x7f0f028c
+com.example.rinder:id/snapMargins = 0x7f080144
+com.example.rinder:style/Base.Widget.AppCompat.CompoundButton.Switch = 0x7f0f00af
+com.example.rinder:style/Base.Theme.AppCompat.Dialog = 0x7f0f0049
+com.example.rinder:style/Widget.MaterialComponents.CompoundButton.Switch = 0x7f0f027d
+com.example.rinder:interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0 = 0x7f0a0000
+com.example.rinder:styleable/FlowLayout = 0x7f10002a
+com.example.rinder:style/TextAppearance.AppCompat.Button = 0x7f0f0130
+com.example.rinder:drawable/layout_details = 0x7f07008a
+com.example.rinder:style/Base.Widget.AppCompat.DrawerArrowToggle = 0x7f0f00b0
+com.example.rinder:style/Theme.MaterialComponents.DayNight.NoActionBar.Bridge = 0x7f0f01af
+com.example.rinder:style/Widget.AppCompat.Light.ActionButton = 0x7f0f0221
+com.example.rinder:xml/standalone_badge_offset = 0x7f110004
+com.example.rinder:style/Widget.MaterialComponents.Button.Icon = 0x7f0f0269
+com.example.rinder:color/mtrl_btn_ripple_color = 0x7f050091
+com.example.rinder:id/easeIn = 0x7f080096
+>>>>>>> master
 com.example.rinder:styleable/Insets = 0x7f100031
 com.example.rinder:xml/standalone_badge = 0x7f110000
 com.example.rinder:layout/support_simple_spinner_dropdown_item = 0x7f0b0060
@@ -65,6 +134,7 @@ com.example.rinder:style/Widget.AppCompat.SeekBar.Discrete = 0x7f0f023e
 com.example.rinder:style/Base.Widget.AppCompat.Button.Colored = 0x7f0f00a9
 com.example.rinder:id/decelerateAndComplete = 0x7f080080
 com.example.rinder:id/flip = 0x7f0800ac
+<<<<<<< HEAD
 com.example.rinder:style/Widget.AppCompat.RatingBar.Indicator = 0x7f0f0239
 com.example.rinder:style/Widget.AppCompat.ProgressBar = 0x7f0f0236
 com.example.rinder:style/Base.Widget.AppCompat.SearchView.ActionBar = 0x7f0f00cb
@@ -72,6 +142,8 @@ com.example.rinder:id/topPanel = 0x7f08017c
 com.example.rinder:id/chain = 0x7f080066
 com.example.rinder:style/TextAppearance.Design.Counter = 0x7f0f0163
 com.example.rinder:id/message = 0x7f0800d7
+=======
+>>>>>>> master
 com.example.rinder:color/primary_text_default_material_light = 0x7f0500c6
 com.example.rinder:style/Widget.AppCompat.ListView.DropDown = 0x7f0f0231
 com.example.rinder:style/Base.V26.Theme.AppCompat.Light = 0x7f0f008e
@@ -82,6 +154,7 @@ com.example.rinder:style/ThemeOverlay.MaterialComponents.AutoCompleteTextView = 
 com.example.rinder:style/TextAppearance.AppCompat.Body1 = 0x7f0f012e
 com.example.rinder:style/ShapeAppearanceOverlay.TopLeftCut = 0x7f0f0120
 com.example.rinder:styleable/Tooltip = 0x7f100075
+<<<<<<< HEAD
 com.example.rinder:id/listgender = 0x7f080196
 com.example.rinder:style/ThemeOverlay.MaterialComponents.Dialog.Alert.Framework = 0x7f0f01e9
 com.example.rinder:layout/abc_search_view = 0x7f0b0019
@@ -91,23 +164,47 @@ com.example.rinder:string/common_google_play_services_update_title = 0x7f0e002f
 com.example.rinder:style/Widget.MaterialComponents.Button.TextButton.Dialog.Flush = 0x7f0f026e
 com.example.rinder:dimen/design_tab_text_size_2line = 0x7f060089
 com.example.rinder:dimen/subtitle_shadow_offset = 0x7f06015c
+=======
+com.example.rinder:style/Base.Widget.AppCompat.SearchView.ActionBar = 0x7f0f00cb
+com.example.rinder:id/topPanel = 0x7f08017c
+com.example.rinder:id/chain = 0x7f080066
+com.example.rinder:style/TextAppearance.Design.Counter = 0x7f0f0163
+com.example.rinder:id/message = 0x7f0800d7
+com.example.rinder:style/Widget.AppCompat.RatingBar.Indicator = 0x7f0f0239
+com.example.rinder:style/Widget.AppCompat.ProgressBar = 0x7f0f0236
+com.example.rinder:id/notmember = 0x7f080101
+com.example.rinder:style/ThemeOverlay.MaterialComponents.Dialog.Alert.Framework = 0x7f0f01e9
+com.example.rinder:layout/abc_search_view = 0x7f0b0019
+>>>>>>> master
 com.example.rinder:style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date.Header.Text.Day = 0x7f0f01f2
 com.example.rinder:style/ShapeAppearanceOverlay = 0x7f0f0113
 com.example.rinder:style/Base.V7.Theme.AppCompat.Light.Dialog = 0x7f0f0095
 com.example.rinder:style/CardView.Dark = 0x7f0f00e1
+<<<<<<< HEAD
 com.example.rinder:style/Widget.AppCompat.Light.PopupMenu.Overflow = 0x7f0f022b
 com.example.rinder:layout/activity_about_us = 0x7f0b001c
+=======
+com.example.rinder:dimen/mtrl_extended_fab_icon_text_spacing = 0x7f060103
+com.example.rinder:style/Widget.AppCompat.Light.PopupMenu.Overflow = 0x7f0f022b
+com.example.rinder:layout/activity_about_us = 0x7f0b001c
+com.example.rinder:styleable/AppBarLayout = 0x7f10000a
+>>>>>>> master
 com.example.rinder:style/Widget.AppCompat.ProgressBar.Horizontal = 0x7f0f0237
 com.example.rinder:style/Widget.MaterialComponents.TabLayout = 0x7f0f029f
 com.example.rinder:styleable/SnackbarLayout = 0x7f100066
 com.example.rinder:style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Header = 0x7f0f003b
 com.example.rinder:style/Widget.Compat.NotificationActionText = 0x7f0f0248
 com.example.rinder:styleable/GradientColor = 0x7f10002e
+<<<<<<< HEAD
+=======
+com.example.rinder:style/ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox.Dense = 0x7f0f01e0
+>>>>>>> master
 com.example.rinder:style/ThemeOverlay.MaterialComponents.Dark.ActionBar = 0x7f0f01e5
 com.example.rinder:id/forever = 0x7f0800ae
 com.example.rinder:id/on = 0x7f080103
 com.example.rinder:style/Widget.AppCompat.ActionButton = 0x7f0f0203
 com.example.rinder:id/name = 0x7f0800f7
+<<<<<<< HEAD
 com.example.rinder:style/Widget.MaterialComponents.ExtendedFloatingActionButton = 0x7f0f027e
 com.example.rinder:string/app_name = 0x7f0e001b
 com.example.rinder:layout/abc_activity_chooser_view = 0x7f0b0006
@@ -134,10 +231,37 @@ com.example.rinder:styleable/TabItem = 0x7f10006e
 com.example.rinder:style/ThemeOverlay.MaterialComponents.Dialog = 0x7f0f01e7
 com.example.rinder:style/Base.TextAppearance.AppCompat.Subhead.Inverse = 0x7f0f002b
 com.example.rinder:dimen/design_fab_size_mini = 0x7f06006f
+=======
+com.example.rinder:id/textSpacerNoButtons = 0x7f08016a
+com.example.rinder:style/ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen = 0x7f0f01f5
+com.example.rinder:style/Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle = 0x7f0f0034
+com.example.rinder:string/mtrl_picker_text_input_day_abbr = 0x7f0e0060
+com.example.rinder:style/Base.Theme.AppCompat.Light = 0x7f0f004e
+com.example.rinder:layout/abc_dialog_title_material = 0x7f0b000c
+com.example.rinder:style/MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked = 0x7f0f00ed
+com.example.rinder:style/Theme.MaterialComponents.Dialog.Bridge = 0x7f0f01b3
+com.example.rinder:styleable/ActionBar = 0x7f100000
+com.example.rinder:id/stretch = 0x7f080155
+com.example.rinder:style/Theme.Design.Light = 0x7f0f0198
+com.example.rinder:style/Widget.Compat.NotificationActionContainer = 0x7f0f0247
+com.example.rinder:id/packed = 0x7f080105
+com.example.rinder:styleable/TabItem = 0x7f10006e
+com.example.rinder:style/ThemeOverlay.MaterialComponents.Dialog = 0x7f0f01e7
+com.example.rinder:id/notification_background = 0x7f0800fe
+com.example.rinder:styleable/StateSet = 0x7f10006b
+com.example.rinder:style/Base.TextAppearance.AppCompat.Subhead.Inverse = 0x7f0f002b
+com.example.rinder:dimen/design_fab_size_mini = 0x7f06006f
+com.example.rinder:styleable/TabLayout = 0x7f10006f
+com.example.rinder:styleable/Motion = 0x7f100050
+com.example.rinder:color/tooltip_background_light = 0x7f0500de
+com.example.rinder:style/Widget.AppCompat.Button = 0x7f0f0209
+com.example.rinder:string/path_password_strike_through = 0x7f0e006b
+>>>>>>> master
 com.example.rinder:styleable/ColorStateListItem = 0x7f10001c
 com.example.rinder:style/TextAppearance.Design.Prefix = 0x7f0f0169
 com.example.rinder:style/Base.Widget.MaterialComponents.PopupMenu.Overflow = 0x7f0f00db
 com.example.rinder:style/Widget.MaterialComponents.Toolbar = 0x7f0f02af
+<<<<<<< HEAD
 com.example.rinder:styleable/StateSet = 0x7f10006b
 com.example.rinder:string/path_password_strike_through = 0x7f0e006b
 com.example.rinder:style/Widget.AppCompat.Button = 0x7f0f0209
@@ -168,24 +292,58 @@ com.example.rinder:style/Theme.AppCompat.DayNight.DialogWhenLarge = 0x7f0f0187
 com.example.rinder:layout/mtrl_alert_dialog_title = 0x7f0b003d
 com.example.rinder:style/Base.Widget.AppCompat.AutoCompleteTextView = 0x7f0f00a4
 com.example.rinder:layout/mtrl_calendar_year = 0x7f0b004a
+=======
+com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.Year = 0x7f0f0292
+com.example.rinder:styleable/ViewStubCompat = 0x7f10007c
+com.example.rinder:style/ThemeOverlay.MaterialComponents.Light.Dialog.Alert.Framework = 0x7f0f01ec
+com.example.rinder:dimen/mtrl_calendar_day_width = 0x7f0600cf
+com.example.rinder:drawable/notification_bg = 0x7f07009e
+com.example.rinder:color/test_mtrl_calendar_day_selected = 0x7f0500dc
+com.example.rinder:style/Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu = 0x7f0f02a9
+com.example.rinder:string/mtrl_picker_invalid_format = 0x7f0e0051
+com.example.rinder:id/middle = 0x7f0800d8
+com.example.rinder:id/mtrl_calendar_day_selector_frame = 0x7f0800e1
+com.example.rinder:style/Widget.AppCompat.Light.ActionButton.CloseMode = 0x7f0f0222
+com.example.rinder:style/Base.Widget.AppCompat.ActionBar.Solid = 0x7f0f009b
+com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.HeaderTitle = 0x7f0f028f
+com.example.rinder:styleable/AnimatedStateListDrawableCompat = 0x7f100007
+com.example.rinder:color/common_google_signin_btn_text_dark_disabled = 0x7f050036
+com.example.rinder:style/Theme.AppCompat.DayNight.DialogWhenLarge = 0x7f0f0187
+com.example.rinder:layout/mtrl_calendar_year = 0x7f0b004a
+com.example.rinder:style/Theme.AppCompat.DayNight.Dialog.MinWidth = 0x7f0f0186
+com.example.rinder:style/Widget.MaterialComponents.BottomNavigationView.PrimarySurface = 0x7f0f0265
+com.example.rinder:style/Base.Widget.AppCompat.AutoCompleteTextView = 0x7f0f00a4
+com.example.rinder:layout/mtrl_alert_dialog_title = 0x7f0b003d
+com.example.rinder:style/Widget.MaterialComponents.TextInputLayout.FilledBox.Dense = 0x7f0f02a7
+com.example.rinder:style/Base.TextAppearance.AppCompat.Body1 = 0x7f0f0014
+com.example.rinder:color/material_grey_600 = 0x7f050078
+com.example.rinder:style/Base.V7.ThemeOverlay.AppCompat.Dialog = 0x7f0f0096
+com.example.rinder:style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Small = 0x7f0f003d
+>>>>>>> master
 com.example.rinder:integer/mtrl_badge_max_character_count = 0x7f09000a
 com.example.rinder:styleable/AlertDialog = 0x7f100006
 com.example.rinder:drawable/abc_control_background_material = 0x7f070019
 com.example.rinder:id/startHorizontal = 0x7f080150
 com.example.rinder:layout/abc_action_bar_up_container = 0x7f0b0001
 com.example.rinder:id/square = 0x7f08014a
+<<<<<<< HEAD
 com.example.rinder:id/namiset = 0x7f0801a2
 com.example.rinder:style/Theme.MaterialComponents.Light.LargeTouch = 0x7f0f01c8
 com.example.rinder:style/TextAppearance.Compat.Notification.Info.Media = 0x7f0f02b5
 com.example.rinder:styleable/ViewPager2 = 0x7f10007b
 com.example.rinder:drawable/common_google_signin_btn_icon_light_focused = 0x7f07006f
 com.example.rinder:style/Widget.MaterialComponents.CompoundButton.RadioButton = 0x7f0f027c
+=======
+com.example.rinder:style/Widget.MaterialComponents.CompoundButton.RadioButton = 0x7f0f027c
+com.example.rinder:drawable/common_google_signin_btn_icon_light_focused = 0x7f07006f
+>>>>>>> master
 com.example.rinder:string/common_google_play_services_update_button = 0x7f0e002d
 com.example.rinder:styleable/SwitchMaterial = 0x7f10006d
 com.example.rinder:style/ThemeOverlay.MaterialComponents.ActionBar.Primary = 0x7f0f01da
 com.example.rinder:style/ThemeOverlay.MaterialComponents.ActionBar.Surface = 0x7f0f01db
 com.example.rinder:style/Theme.MaterialComponents.Light.BarSize = 0x7f0f01ba
 com.example.rinder:style/Widget.MaterialComponents.Button.OutlinedButton = 0x7f0f026a
+<<<<<<< HEAD
 com.example.rinder:id/cancel_action = 0x7f08019b
 com.example.rinder:style/Theme.MaterialComponents.DayNight.BottomSheetDialog = 0x7f0f01a1
 com.example.rinder:string/abc_menu_sym_shortcut_label = 0x7f0e0010
@@ -224,6 +382,37 @@ com.example.rinder:style/RtlUnderlay.Widget.AppCompat.ActionButton = 0x7f0f010b
 com.example.rinder:styleable/Transform = 0x7f100076
 com.example.rinder:style/TextAppearance.MaterialComponents.Overline = 0x7f0f0179
 com.example.rinder:string/mtrl_picker_text_input_year_abbr = 0x7f0e0062
+=======
+com.example.rinder:style/Theme.MaterialComponents.DayNight.BottomSheetDialog = 0x7f0f01a1
+com.example.rinder:string/abc_menu_sym_shortcut_label = 0x7f0e0010
+com.example.rinder:styleable/CustomAttribute = 0x7f100024
+com.example.rinder:style/Theme.Design.NoActionBar = 0x7f0f019b
+com.example.rinder:id/labeled = 0x7f0800cb
+com.example.rinder:style/TextAppearance.MaterialComponents.Headline4 = 0x7f0f0176
+com.example.rinder:styleable/AppCompatTextHelper = 0x7f10000f
+com.example.rinder:style/Widget.Design.CollapsingToolbar = 0x7f0f024c
+com.example.rinder:interpolator/mtrl_fast_out_linear_in = 0x7f0a0007
+com.example.rinder:style/Theme.MaterialComponents.Dialog.Alert = 0x7f0f01b1
+com.example.rinder:style/Widget.MaterialComponents.ExtendedFloatingActionButton = 0x7f0f027e
+com.example.rinder:style/Base.TextAppearance.AppCompat.Title.Inverse = 0x7f0f002d
+com.example.rinder:style/Theme.AppCompat.Light.Dialog.Alert = 0x7f0f0191
+com.example.rinder:style/Theme.AppCompat.Light = 0x7f0f018e
+com.example.rinder:id/tag_unhandled_key_listeners = 0x7f080162
+com.example.rinder:layout/mtrl_picker_text_input_date_range = 0x7f0b0056
+com.example.rinder:integer/cancel_button_image_alpha = 0x7f090004
+com.example.rinder:styleable/Transition = 0x7f100077
+com.example.rinder:style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse = 0x7f0f014c
+com.example.rinder:id/center_horizontal = 0x7f080064
+com.example.rinder:id/title_template = 0x7f080179
+com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.Year.Today = 0x7f0f0294
+com.example.rinder:style/Widget.MaterialComponents.AppBarLayout.Primary = 0x7f0f0258
+com.example.rinder:styleable/Transform = 0x7f100076
+com.example.rinder:style/RtlUnderlay.Widget.AppCompat.ActionButton = 0x7f0f010b
+com.example.rinder:style/TextAppearance.MaterialComponents.Overline = 0x7f0f0179
+com.example.rinder:string/mtrl_picker_text_input_year_abbr = 0x7f0e0062
+com.example.rinder:dimen/mtrl_calendar_header_divider_thickness = 0x7f0600d4
+com.example.rinder:attr/buttonIconDimen = 0x7f030070
+>>>>>>> master
 com.example.rinder:style/TextAppearance.AppCompat.Widget.PopupMenu.Small = 0x7f0f015a
 com.example.rinder:drawable/ic_mtrl_chip_close_circle = 0x7f070089
 com.example.rinder:styleable/MockView = 0x7f10004f
@@ -235,17 +424,31 @@ com.example.rinder:style/Base.Widget.AppCompat.ProgressBar = 0x7f0f00c5
 com.example.rinder:style/TextAppearance.AppCompat.Subhead = 0x7f0f0145
 com.example.rinder:dimen/notification_media_narrow_margin = 0x7f060149
 com.example.rinder:style/EmptyTheme = 0x7f0f00e3
+<<<<<<< HEAD
 com.example.rinder:style/ThemeOverlay.MaterialComponents.Dark = 0x7f0f01e4
 com.example.rinder:style/ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox = 0x7f0f01df
 com.example.rinder:style/TextAppearance.AppCompat.Menu = 0x7f0f0140
+=======
+com.example.rinder:style/TextAppearance.AppCompat.Menu = 0x7f0f0140
+com.example.rinder:style/ThemeOverlay.MaterialComponents.Dark = 0x7f0f01e4
+com.example.rinder:style/ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox = 0x7f0f01df
+>>>>>>> master
 com.example.rinder:style/TextAppearance.AppCompat.Light.SearchResult.Title = 0x7f0f013b
 com.example.rinder:style/Base.AlertDialog.AppCompat = 0x7f0f0008
 com.example.rinder:style/TextAppearance.AppCompat.Light.SearchResult.Subtitle = 0x7f0f013a
 com.example.rinder:style/Widget.AppCompat.Light.ActionBar.TabView = 0x7f0f021f
+<<<<<<< HEAD
 com.example.rinder:drawable/navigation_empty_icon = 0x7f07009c
 com.example.rinder:style/Base.Theme.AppCompat.Light.DarkActionBar = 0x7f0f004f
 com.example.rinder:id/action0 = 0x7f08019a
 com.example.rinder:style/ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox.Dense = 0x7f0f01e0
+=======
+com.example.rinder:style/Base.Theme.AppCompat.Light.DarkActionBar = 0x7f0f004f
+com.example.rinder:drawable/navigation_empty_icon = 0x7f07009c
+com.example.rinder:style/TextAppearance.AppCompat.Display4 = 0x7f0f0135
+com.example.rinder:style/Theme.MaterialComponents.Light.DialogWhenLarge = 0x7f0f01c7
+com.example.rinder:id/month_navigation_fragment_toggle = 0x7f0800dc
+>>>>>>> master
 com.example.rinder:style/TextAppearance.AppCompat.Display1 = 0x7f0f0132
 com.example.rinder:style/AndroidThemeColorAccentYellow = 0x7f0f0002
 com.example.rinder:style/AlertDialog.AppCompat = 0x7f0f0000
@@ -262,6 +465,7 @@ com.example.rinder:layout/abc_screen_content_include = 0x7f0b0014
 com.example.rinder:dimen/design_bottom_navigation_active_item_max_width = 0x7f06005e
 com.example.rinder:styleable/SearchView = 0x7f100060
 com.example.rinder:style/TextAppearance.MaterialComponents.Headline1 = 0x7f0f0173
+<<<<<<< HEAD
 com.example.rinder:style/Base.TextAppearance.AppCompat.Menu = 0x7f0f0024
 com.example.rinder:style/Widget.MaterialComponents.TabLayout.PrimarySurface = 0x7f0f02a1
 com.example.rinder:color/browser_actions_bg_grey = 0x7f050029
@@ -271,26 +475,38 @@ com.example.rinder:style/Widget.MaterialComponents.ActionBar.PrimarySurface = 0x
 com.example.rinder:integer/hide_password_duration = 0x7f090009
 com.example.rinder:style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle = 0x7f0f014b
 com.example.rinder:integer/design_snackbar_text_max_lines = 0x7f090006
+=======
+com.example.rinder:color/browser_actions_bg_grey = 0x7f050029
+com.example.rinder:integer/google_play_services_version = 0x7f090008
+com.example.rinder:style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle = 0x7f0f014b
+>>>>>>> master
 com.example.rinder:id/nameRegister = 0x7f0800f8
 com.example.rinder:style/TestStyleWithThemeLineHeightAttribute = 0x7f0f0129
 com.example.rinder:styleable/ExtendedFloatingActionButton = 0x7f100026
 com.example.rinder:id/chip3 = 0x7f08006d
 com.example.rinder:style/TextAppearance.MaterialComponents.Body2 = 0x7f0f016f
+<<<<<<< HEAD
 com.example.rinder:id/packed = 0x7f080105
 com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.HeaderTitle = 0x7f0f028f
 com.example.rinder:style/Base.Widget.AppCompat.ActionBar.Solid = 0x7f0f009b
+=======
+>>>>>>> master
 com.example.rinder:attr/tickColorActive = 0x7f030307
 com.example.rinder:dimen/mtrl_btn_dialog_btn_min_width = 0x7f0600b1
 com.example.rinder:style/Theme.MaterialComponents.Light.DarkActionBar.Bridge = 0x7f0f01be
 com.example.rinder:style/Widget.MaterialComponents.Toolbar.Surface = 0x7f0f02b2
 com.example.rinder:style/TextAppearance.AppCompat.Widget.PopupMenu.Large = 0x7f0f0159
 com.example.rinder:layout/abc_activity_chooser_view_list_item = 0x7f0b0007
+<<<<<<< HEAD
 com.example.rinder:styleable/MaterialCheckBox = 0x7f100047
+=======
+>>>>>>> master
 com.example.rinder:dimen/mtrl_high_ripple_focused_alpha = 0x7f060111
 com.example.rinder:id/scroll = 0x7f080127
 com.example.rinder:style/Widget.Design.NavigationView = 0x7f0f024e
 com.example.rinder:styleable/KeyFramesAcceleration = 0x7f100035
 com.example.rinder:style/Widget.AppCompat.Light.ActionMode.Inverse = 0x7f0f0224
+<<<<<<< HEAD
 com.example.rinder:style/Base.Widget.AppCompat.PopupMenu = 0x7f0f00c2
 com.example.rinder:integer/config_tooltipAnimTime = 0x7f090005
 com.example.rinder:style/Widget.AppCompat.ButtonBar.AlertDialog = 0x7f0f0210
@@ -304,6 +520,13 @@ com.example.rinder:id/month_navigation_next = 0x7f0800dd
 com.example.rinder:id/META = 0x7f080005
 com.example.rinder:id/mtrl_picker_text_input_range_start = 0x7f0800f4
 com.example.rinder:color/notification_material_background_media_default_color = 0x7f0500e1
+=======
+com.example.rinder:style/Widget.MaterialComponents.Button = 0x7f0f0268
+com.example.rinder:styleable/CollapsingToolbarLayout_Layout = 0x7f10001b
+com.example.rinder:id/month_navigation_next = 0x7f0800dd
+com.example.rinder:id/META = 0x7f080005
+com.example.rinder:id/mtrl_picker_text_input_range_start = 0x7f0800f4
+>>>>>>> master
 com.example.rinder:dimen/design_snackbar_min_width = 0x7f060081
 com.example.rinder:style/CardView = 0x7f0f00e0
 com.example.rinder:style/Base.V21.Theme.AppCompat.Light.Dialog = 0x7f0f0083
@@ -313,8 +536,13 @@ com.example.rinder:styleable/KeyTimeCycle = 0x7f100038
 com.example.rinder:id/add = 0x7f080045
 com.example.rinder:id/activity_chooser_view_content = 0x7f080044
 com.example.rinder:id/line1 = 0x7f0800d0
+<<<<<<< HEAD
 com.example.rinder:styleable/MaterialShape = 0x7f100049
 com.example.rinder:style/Base.V22.Theme.AppCompat.Light = 0x7f0f008a
+=======
+com.example.rinder:style/Base.V22.Theme.AppCompat.Light = 0x7f0f008a
+com.example.rinder:styleable/MaterialShape = 0x7f100049
+>>>>>>> master
 com.example.rinder:style/Base.Theme.AppCompat.Light.Dialog = 0x7f0f0050
 com.example.rinder:dimen/notification_small_icon_background_padding = 0x7f06014c
 com.example.rinder:dimen/mtrl_extended_fab_disabled_translation_z = 0x7f0600fe
@@ -324,13 +552,20 @@ com.example.rinder:style/Widget.MaterialComponents.Button.TextButton = 0x7f0f026
 com.example.rinder:style/TextAppearance.AppCompat.Widget.ActionBar.Menu = 0x7f0f014a
 com.example.rinder:id/TOP_END = 0x7f08000d
 com.example.rinder:drawable/abc_seekbar_track_material = 0x7f070049
+<<<<<<< HEAD
 com.example.rinder:integer/show_password_duration = 0x7f090014
 com.example.rinder:style/Widget.MaterialComponents.Chip.Filter = 0x7f0f0279
 com.example.rinder:string/clear_text_end_icon_content_description = 0x7f0e0022
+=======
+com.example.rinder:style/RtlOverlay.Widget.AppCompat.PopupMenuItem.SubmenuArrow = 0x7f0f0102
+com.example.rinder:style/RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup = 0x7f0f0100
+com.example.rinder:style/ShapeAppearanceOverlay.DifferentCornerSize = 0x7f0f0117
+>>>>>>> master
 com.example.rinder:style/RtlOverlay.Widget.AppCompat.Search.DropDown = 0x7f0f0105
 com.example.rinder:style/ShapeAppearanceOverlay.BottomLeftDifferentCornerSize = 0x7f0f0114
 com.example.rinder:style/ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox.Dense = 0x7f0f01fa
 com.example.rinder:id/filled = 0x7f0800a8
+<<<<<<< HEAD
 com.example.rinder:style/ShapeAppearanceOverlay.DifferentCornerSize = 0x7f0f0117
 com.example.rinder:style/RtlOverlay.Widget.AppCompat.DialogTitle.Icon = 0x7f0f00fe
 com.example.rinder:id/percent = 0x7f080110
@@ -339,29 +574,44 @@ com.example.rinder:style/TextAppearance.Compat.Notification.Line2.Media = 0x7f0f
 com.example.rinder:id/accessibility_custom_action_9 = 0x7f080031
 com.example.rinder:style/Widget.MaterialComponents.CheckedTextView = 0x7f0f0275
 com.example.rinder:id/mini = 0x7f0800d9
+=======
+com.example.rinder:integer/show_password_duration = 0x7f090014
+com.example.rinder:style/Widget.MaterialComponents.Chip.Filter = 0x7f0f0279
+>>>>>>> master
 com.example.rinder:string/mtrl_picker_text_input_date_range_start_hint = 0x7f0e005f
 com.example.rinder:style/Base.TextAppearance.AppCompat.SearchResult.Title = 0x7f0f0027
 com.example.rinder:style/Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse = 0x7f0f0033
 com.example.rinder:id/action_bar_root = 0x7f080035
 com.example.rinder:style/TextAppearance.AppCompat.Widget.TextView.SpinnerItem = 0x7f0f015c
+<<<<<<< HEAD
 com.example.rinder:style/TextAppearance.MaterialComponents.Body1 = 0x7f0f016e
 com.example.rinder:string/mtrl_picker_confirm = 0x7f0e004c
 com.example.rinder:style/Widget.MaterialComponents.ActionBar.Surface = 0x7f0f0257
 com.example.rinder:style/Theme.MaterialComponents.Light.NoActionBar = 0x7f0f01c9
 com.example.rinder:style/RtlOverlay.Widget.AppCompat.ActionBar.TitleItem = 0x7f0f00fd
 com.example.rinder:styleable/MaterialButton = 0x7f100042
+=======
+com.example.rinder:style/RtlOverlay.Widget.AppCompat.ActionBar.TitleItem = 0x7f0f00fd
+com.example.rinder:styleable/MaterialButton = 0x7f100042
+com.example.rinder:style/Widget.MaterialComponents.ActionBar.Surface = 0x7f0f0257
+com.example.rinder:style/Theme.MaterialComponents.Light.NoActionBar = 0x7f0f01c9
+>>>>>>> master
 com.example.rinder:style/Theme.MaterialComponents.Dialog.FixedSize.Bridge = 0x7f0f01b5
 com.example.rinder:styleable/MenuGroup = 0x7f10004c
 com.example.rinder:style/Base.TextAppearance.AppCompat.Widget.Button.Colored = 0x7f0f0038
 com.example.rinder:style/Platform.ThemeOverlay.AppCompat.Light = 0x7f0f00f6
 com.example.rinder:id/coordinator = 0x7f080078
+<<<<<<< HEAD
 com.example.rinder:style/Base.V26.Theme.AppCompat = 0x7f0f008d
 com.example.rinder:style/Platform.ThemeOverlay.AppCompat.Dark = 0x7f0f00f5
+=======
+>>>>>>> master
 com.example.rinder:id/search_button = 0x7f08012e
 com.example.rinder:style/TextAppearance.MaterialComponents.Subtitle1 = 0x7f0f017a
 com.example.rinder:id/action_image = 0x7f08003c
 com.example.rinder:style/Widget.MaterialComponents.ChipGroup = 0x7f0f027a
 com.example.rinder:interpolator/fast_out_slow_in = 0x7f0a0006
+<<<<<<< HEAD
 com.example.rinder:id/connectbtn = 0x7f0801a7
 com.example.rinder:style/Widget.AppCompat.Light.ActionBar.Solid.Inverse = 0x7f0f021a
 com.example.rinder:style/MaterialAlertDialog.MaterialComponents.Picker.Date.Calendar = 0x7f0f00e6
@@ -371,10 +621,21 @@ com.example.rinder:styleable/ForegroundLinearLayout = 0x7f10002d
 com.example.rinder:color/design_dark_default_color_on_surface = 0x7f050047
 com.example.rinder:style/Theme.AppCompat.NoActionBar = 0x7f0f0195
 com.example.rinder:id/edit_query = 0x7f08009b
+=======
+com.example.rinder:style/MaterialAlertDialog.MaterialComponents.Title.Text = 0x7f0f00ec
+com.example.rinder:style/Widget.AppCompat.Light.ActionBar.Solid.Inverse = 0x7f0f021a
+com.example.rinder:style/MaterialAlertDialog.MaterialComponents.Picker.Date.Calendar = 0x7f0f00e6
+com.example.rinder:color/bright_foreground_material_light = 0x7f050028
+com.example.rinder:color/design_dark_default_color_on_surface = 0x7f050047
+com.example.rinder:styleable/ForegroundLinearLayout = 0x7f10002d
+com.example.rinder:id/edit_query = 0x7f08009b
+com.example.rinder:style/Theme.AppCompat.NoActionBar = 0x7f0f0195
+>>>>>>> master
 com.example.rinder:style/Base.Theme.MaterialComponents.Dialog.FixedSize = 0x7f0f005b
 com.example.rinder:dimen/mtrl_btn_disabled_elevation = 0x7f0600b2
 com.example.rinder:color/design_icon_tint = 0x7f050063
 com.example.rinder:id/gone = 0x7f0800b1
+<<<<<<< HEAD
 com.example.rinder:style/Widget.AppCompat.ActivityChooserView = 0x7f0f0207
 com.example.rinder:layout/select_dialog_multichoice_material = 0x7f0b005e
 com.example.rinder:style/Base.TextAppearance.AppCompat.Caption = 0x7f0f0017
@@ -384,16 +645,32 @@ com.example.rinder:dimen/abc_alert_dialog_button_dimen = 0x7f060011
 com.example.rinder:style/ThemeOverlay.AppCompat.DayNight = 0x7f0f01d2
 com.example.rinder:dimen/notification_big_circle_margin = 0x7f060144
 com.example.rinder:color/design_default_color_on_surface = 0x7f050054
+=======
+com.example.rinder:dimen/notification_big_circle_margin = 0x7f060144
+com.example.rinder:color/design_default_color_on_surface = 0x7f050054
+com.example.rinder:layout/select_dialog_multichoice_material = 0x7f0b005e
+com.example.rinder:style/Widget.AppCompat.ActivityChooserView = 0x7f0f0207
+com.example.rinder:string/google_crash_reporting_api_key = 0x7f0e003d
+com.example.rinder:style/TextAppearance.Design.CollapsingToolbar.Expanded = 0x7f0f0162
+com.example.rinder:style/Base.TextAppearance.AppCompat.Caption = 0x7f0f0017
+>>>>>>> master
 com.example.rinder:styleable/SwitchCompat = 0x7f10006c
 com.example.rinder:style/Base.Widget.AppCompat.TextView = 0x7f0f00d0
 com.example.rinder:dimen/tooltip_y_offset_non_touch = 0x7f060158
 com.example.rinder:style/Base.Widget.AppCompat.PopupMenu.Overflow = 0x7f0f00c3
 com.example.rinder:style/Theme.AppCompat.DayNight.Dialog = 0x7f0f0184
+<<<<<<< HEAD
+=======
+com.example.rinder:integer/hide_password_duration = 0x7f090009
+com.example.rinder:style/Base.Widget.AppCompat.ListView.Menu = 0x7f0f00c1
+com.example.rinder:style/Widget.MaterialComponents.ActionBar.PrimarySurface = 0x7f0f0255
+>>>>>>> master
 com.example.rinder:style/Base.Widget.AppCompat.ImageButton = 0x7f0f00b4
 com.example.rinder:styleable/MenuItem = 0x7f10004d
 com.example.rinder:layout/mtrl_picker_text_input_date = 0x7f0b0055
 com.example.rinder:style/Animation.Design.BottomSheetDialog = 0x7f0f0006
 com.example.rinder:style/Base.ThemeOverlay.AppCompat = 0x7f0f0068
+<<<<<<< HEAD
 com.example.rinder:styleable/MaterialTextView = 0x7f10004b
 com.example.rinder:style/ThemeOverlay.AppCompat = 0x7f0f01ce
 com.example.rinder:color/mtrl_card_view_ripple = 0x7f05009b
@@ -401,6 +678,21 @@ com.example.rinder:color/mtrl_tabs_legacy_text_color_selector = 0x7f0500b7
 com.example.rinder:string/mtrl_picker_range_header_only_end_selected = 0x7f0e0057
 com.example.rinder:id/end = 0x7f08009e
 com.example.rinder:style/Widget.AppCompat.AutoCompleteTextView = 0x7f0f0208
+=======
+com.example.rinder:style/ThemeOverlay.AppCompat = 0x7f0f01ce
+com.example.rinder:styleable/MaterialTextView = 0x7f10004b
+com.example.rinder:color/mtrl_tabs_legacy_text_color_selector = 0x7f0500b7
+com.example.rinder:color/mtrl_card_view_ripple = 0x7f05009b
+com.example.rinder:string/mtrl_picker_range_header_only_end_selected = 0x7f0e0057
+com.example.rinder:id/accessibility_custom_action_20 = 0x7f08001f
+com.example.rinder:style/Base.Widget.AppCompat.PopupMenu = 0x7f0f00c2
+com.example.rinder:style/Widget.AppCompat.ButtonBar.AlertDialog = 0x7f0f0210
+com.example.rinder:style/ThemeOverlay.AppCompat.DayNight = 0x7f0f01d2
+com.example.rinder:dimen/abc_alert_dialog_button_dimen = 0x7f060011
+com.example.rinder:integer/config_tooltipAnimTime = 0x7f090005
+com.example.rinder:style/TextAppearance.MaterialComponents.Body1 = 0x7f0f016e
+com.example.rinder:string/mtrl_picker_confirm = 0x7f0e004c
+>>>>>>> master
 com.example.rinder:style/Base.Widget.AppCompat.SeekBar = 0x7f0f00cc
 com.example.rinder:id/time = 0x7f080176
 com.example.rinder:style/Base.Widget.MaterialComponents.TextInputEditText = 0x7f0f00dd
@@ -413,9 +705,17 @@ com.example.rinder:style/Base.Widget.AppCompat.ActionBar.TabView = 0x7f0f009e
 com.example.rinder:style/Base.Widget.AppCompat.ActionBar.TabBar = 0x7f0f009c
 com.example.rinder:layout/browser_actions_context_menu_row = 0x7f0b002a
 com.example.rinder:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Text = 0x7f0f0109
+<<<<<<< HEAD
 com.example.rinder:styleable/OnClick = 0x7f100056
 com.example.rinder:id/adjust_height = 0x7f080046
 com.example.rinder:style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle = 0x7f0f017e
+=======
+com.example.rinder:style/Widget.MaterialComponents.TabLayout.PrimarySurface = 0x7f0f02a1
+com.example.rinder:style/Base.TextAppearance.AppCompat.Menu = 0x7f0f0024
+com.example.rinder:id/adjust_height = 0x7f080046
+com.example.rinder:style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle = 0x7f0f017e
+com.example.rinder:styleable/OnClick = 0x7f100056
+>>>>>>> master
 com.example.rinder:style/Base.Widget.AppCompat.ActionBar = 0x7f0f009a
 com.example.rinder:string/common_google_play_services_notification_channel_name = 0x7f0e0029
 com.example.rinder:drawable/common_google_signin_btn_icon_light_normal_background = 0x7f070071
@@ -426,6 +726,7 @@ com.example.rinder:dimen/mtrl_calendar_selection_text_baseline_to_top = 0x7f0600
 com.example.rinder:style/Base.ThemeOverlay.MaterialComponents.MaterialAlertDialog = 0x7f0f0073
 com.example.rinder:id/blocking = 0x7f080058
 com.example.rinder:style/Theme.AppCompat.Dialog = 0x7f0f0189
+<<<<<<< HEAD
 com.example.rinder:drawable/abc_list_divider_mtrl_alpha = 0x7f070032
 com.example.rinder:dimen/mtrl_calendar_header_text_padding = 0x7f0600d8
 com.example.rinder:dimen/mtrl_high_ripple_hovered_alpha = 0x7f060112
@@ -434,6 +735,18 @@ com.example.rinder:style/Base.V26.Widget.AppCompat.Toolbar = 0x7f0f008f
 com.example.rinder:styleable/KeyFramesVelocity = 0x7f100036
 com.example.rinder:style/Theme.MaterialComponents.Light.BottomSheetDialog = 0x7f0f01bb
 com.example.rinder:style/TextAppearance.AppCompat.Large.Inverse = 0x7f0f0139
+=======
+com.example.rinder:dimen/mtrl_high_ripple_hovered_alpha = 0x7f060112
+com.example.rinder:drawable/abc_list_divider_mtrl_alpha = 0x7f070032
+com.example.rinder:dimen/mtrl_calendar_header_text_padding = 0x7f0600d8
+com.example.rinder:style/Base.V7.Widget.AppCompat.Toolbar = 0x7f0f0099
+com.example.rinder:style/Base.V26.Widget.AppCompat.Toolbar = 0x7f0f008f
+com.example.rinder:style/Base.V26.Theme.AppCompat = 0x7f0f008d
+com.example.rinder:style/Platform.ThemeOverlay.AppCompat.Dark = 0x7f0f00f5
+com.example.rinder:styleable/KeyFramesVelocity = 0x7f100036
+com.example.rinder:style/TextAppearance.AppCompat.Large.Inverse = 0x7f0f0139
+com.example.rinder:style/Theme.MaterialComponents.Light.BottomSheetDialog = 0x7f0f01bb
+>>>>>>> master
 com.example.rinder:style/TextAppearance.AppCompat.Subhead.Inverse = 0x7f0f0146
 com.example.rinder:style/Base.V21.Theme.AppCompat.Light = 0x7f0f0082
 com.example.rinder:id/dark = 0x7f08007d
@@ -449,9 +762,14 @@ com.example.rinder:style/Base.V7.Theme.AppCompat.Light = 0x7f0f0094
 com.example.rinder:id/editTextTextPassword = 0x7f08009a
 com.example.rinder:style/Base.Theme.MaterialComponents.Light.Dialog.Alert = 0x7f0f0063
 com.example.rinder:style/Base.V14.Theme.MaterialComponents.Light.Dialog.Bridge = 0x7f0f007c
+<<<<<<< HEAD
 com.example.rinder:id/center_vertical = 0x7f080065
 com.example.rinder:id/search_go_btn = 0x7f080131
 com.example.rinder:dimen/subtitle_outline_width = 0x7f06015b
+=======
+com.example.rinder:id/search_go_btn = 0x7f080131
+com.example.rinder:id/center_vertical = 0x7f080065
+>>>>>>> master
 com.example.rinder:style/Base.Widget.AppCompat.Light.ActionBar.TabView = 0x7f0f00ba
 com.example.rinder:dimen/mtrl_badge_with_text_radius = 0x7f0600a9
 com.example.rinder:string/mtrl_picker_cancel = 0x7f0e004b
@@ -473,6 +791,10 @@ com.example.rinder:style/Theme.AppCompat.Empty = 0x7f0f018d
 com.example.rinder:layout/mtrl_layout_snackbar_include = 0x7f0b004c
 com.example.rinder:styleable/State = 0x7f100068
 com.example.rinder:style/Base.Theme.MaterialComponents.Light.Dialog.Bridge = 0x7f0f0064
+<<<<<<< HEAD
+=======
+com.example.rinder:styleable/ViewPager2 = 0x7f10007b
+>>>>>>> master
 com.example.rinder:style/Base.Theme.MaterialComponents.DialogWhenLarge = 0x7f0f005d
 com.example.rinder:style/Widget.AppCompat.Spinner = 0x7f0f023f
 com.example.rinder:style/Base.ThemeOverlay.MaterialComponents.Dialog.Alert.Framework = 0x7f0f0071
@@ -504,10 +826,15 @@ com.example.rinder:style/TextAppearance.Compat.Notification.Info = 0x7f0f015e
 com.example.rinder:style/Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small = 0x7f0f0021
 com.example.rinder:layout/notification_action_tombstone = 0x7f0b0058
 com.example.rinder:dimen/abc_action_button_min_height_material = 0x7f06000d
+<<<<<<< HEAD
 com.example.rinder:layout/notification_media_action = 0x7f0b0071
 com.example.rinder:styleable/FloatingActionButton = 0x7f100028
 com.example.rinder:styleable/ActivityChooserView = 0x7f100005
 com.example.rinder:layout/notification_template_lines_media = 0x7f0b0077
+=======
+com.example.rinder:styleable/FloatingActionButton = 0x7f100028
+com.example.rinder:styleable/ActivityChooserView = 0x7f100005
+>>>>>>> master
 com.example.rinder:style/Base.V7.Widget.AppCompat.EditText = 0x7f0f0098
 com.example.rinder:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2 = 0x7f0f0107
 com.example.rinder:style/Theme.AppCompat.Light.NoActionBar = 0x7f0f0194
@@ -515,8 +842,11 @@ com.example.rinder:style/Widget.MaterialComponents.CardView = 0x7f0f0274
 com.example.rinder:dimen/abc_text_size_subhead_material = 0x7f06004a
 com.example.rinder:style/Base.Animation.AppCompat.Tooltip = 0x7f0f000c
 com.example.rinder:styleable/ScrollingViewBehavior_Layout = 0x7f10005f
+<<<<<<< HEAD
 com.example.rinder:style/Test.Widget.MaterialComponents.MaterialCalendar.Day = 0x7f0f0125
 com.example.rinder:style/Widget.MaterialComponents.Tooltip = 0x7f0f02b3
+=======
+>>>>>>> master
 com.example.rinder:style/Widget.MaterialComponents.Slider = 0x7f0f029b
 com.example.rinder:style/Animation.MaterialComponents.BottomSheetDialog = 0x7f0f0007
 com.example.rinder:style/Widget.MaterialComponents.PopupMenu = 0x7f0f0296
@@ -530,33 +860,58 @@ com.example.rinder:style/Base.TextAppearance.Widget.AppCompat.Toolbar.Title = 0x
 com.example.rinder:string/mtrl_picker_date_header_selected = 0x7f0e004d
 com.example.rinder:string/mtrl_picker_a11y_next_month = 0x7f0e0048
 com.example.rinder:style/Widget.MaterialComponents.Button.TextButton.Icon = 0x7f0f0270
+<<<<<<< HEAD
 com.example.rinder:string/mtrl_chip_close_icon_content_description = 0x7f0e0045
 com.example.rinder:styleable/LinearLayoutCompat_Layout = 0x7f10003c
+=======
+com.example.rinder:styleable/LinearLayoutCompat_Layout = 0x7f10003c
+com.example.rinder:string/mtrl_chip_close_icon_content_description = 0x7f0e0045
+>>>>>>> master
 com.example.rinder:drawable/abc_btn_switch_to_on_mtrl_00001 = 0x7f070014
 com.example.rinder:attr/layout_goneMarginTop = 0x7f0301e8
 com.example.rinder:string/item_view_role_description = 0x7f0e0041
 com.example.rinder:string/google_storage_bucket = 0x7f0e003e
 com.example.rinder:style/TextAppearance.AppCompat.Title.Inverse = 0x7f0f0148
+<<<<<<< HEAD
 com.example.rinder:id/textView7 = 0x7f0801a6
 com.example.rinder:drawable/abc_btn_check_to_on_mtrl_000 = 0x7f07000c
 com.example.rinder:style/Theme.MaterialComponents.Dialog.Alert.Bridge = 0x7f0f01b2
 com.example.rinder:style/Widget.MaterialComponents.AutoCompleteTextView.FilledBox = 0x7f0f025b
+=======
+>>>>>>> master
 com.example.rinder:string/common_signin_button_text_long = 0x7f0e0034
 com.example.rinder:id/spline = 0x7f080146
 com.example.rinder:id/enterAlwaysCollapsed = 0x7f0800a0
 com.example.rinder:style/Base.ThemeOverlay.AppCompat.Dialog.Alert = 0x7f0f006d
+<<<<<<< HEAD
+=======
+com.example.rinder:string/common_google_play_services_wear_update_text = 0x7f0e0031
+com.example.rinder:interpolator/btn_radio_to_on_mtrl_animation_interpolator_0 = 0x7f0a0005
+com.example.rinder:layout/design_layout_snackbar_include = 0x7f0b002f
+>>>>>>> master
 com.example.rinder:attr/textInputLayoutFocusedRectEnabled = 0x7f0302f9
 com.example.rinder:dimen/abc_action_bar_default_padding_end_material = 0x7f060003
 com.example.rinder:string/mtrl_picker_toggle_to_text_input_mode = 0x7f0e0065
 com.example.rinder:style/TextAppearance.MaterialComponents.Badge = 0x7f0f016d
 com.example.rinder:id/text = 0x7f080167
+<<<<<<< HEAD
 com.example.rinder:id/tutorName = 0x7f0801aa
+=======
+>>>>>>> master
 com.example.rinder:style/Widget.MaterialComponents.Snackbar.TextView = 0x7f0f029e
 com.example.rinder:id/ignoreRequest = 0x7f0800c0
 com.example.rinder:string/fab_transformation_sheet_behavior = 0x7f0e0039
 com.example.rinder:string/common_google_play_services_unsupported_text = 0x7f0e002c
 com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.DayTextView = 0x7f0f0288
 com.example.rinder:dimen/mtrl_calendar_text_input_padding_top = 0x7f0600e7
+<<<<<<< HEAD
+=======
+com.example.rinder:string/common_google_play_services_enable_button = 0x7f0e0023
+com.example.rinder:style/Base.V14.Theme.MaterialComponents.Light = 0x7f0f0078
+com.example.rinder:style/TextAppearance.Compat.Notification.Time = 0x7f0f0160
+com.example.rinder:style/Widget.AppCompat.AutoCompleteTextView = 0x7f0f0208
+com.example.rinder:id/end = 0x7f08009e
+>>>>>>> master
 com.example.rinder:string/chip_text = 0x7f0e0021
 com.example.rinder:string/character_counter_pattern = 0x7f0e0020
 com.example.rinder:id/spacer = 0x7f080145
@@ -586,6 +941,10 @@ com.example.rinder:string/abc_action_mode_done = 0x7f0e0003
 com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.Year.Selected = 0x7f0f0293
 com.example.rinder:string/abc_action_menu_overflow_description = 0x7f0e0002
 com.example.rinder:layout/design_layout_tab_text = 0x7f0b0031
+<<<<<<< HEAD
+=======
+com.example.rinder:string/abc_action_bar_up_description = 0x7f0e0001
+>>>>>>> master
 com.example.rinder:string/abc_action_bar_home_description = 0x7f0e0000
 com.example.rinder:mipmap/ic_launcher = 0x7f0c0000
 com.example.rinder:layout/text_view_with_line_height_from_style = 0x7f0b006c
@@ -596,11 +955,23 @@ com.example.rinder:string/mtrl_picker_toggle_to_day_selection = 0x7f0e0064
 com.example.rinder:style/TextAppearance.AppCompat.SearchResult.Title = 0x7f0f0142
 com.example.rinder:style/TextAppearance.MaterialComponents.Tooltip = 0x7f0f017c
 com.example.rinder:layout/test_toolbar_custom_background = 0x7f0b0067
+<<<<<<< HEAD
 com.example.rinder:style/Widget.AppCompat.ActionButton.CloseMode = 0x7f0f0204
 com.example.rinder:styleable/ButtonBarLayout = 0x7f100016
 com.example.rinder:style/TextAppearance.AppCompat.Small.Inverse = 0x7f0f0144
 com.example.rinder:color/mtrl_textinput_disabled_color = 0x7f0500bb
 com.example.rinder:id/parent = 0x7f080107
+=======
+com.example.rinder:id/textStart = 0x7f08016c
+com.example.rinder:style/RtlOverlay.Widget.AppCompat.DialogTitle.Icon = 0x7f0f00fe
+com.example.rinder:id/icon_group = 0x7f0800bc
+com.example.rinder:id/percent = 0x7f080110
+com.example.rinder:style/Widget.AppCompat.ActionButton.CloseMode = 0x7f0f0204
+com.example.rinder:styleable/ButtonBarLayout = 0x7f100016
+com.example.rinder:style/TextAppearance.AppCompat.Small.Inverse = 0x7f0f0144
+com.example.rinder:id/parent = 0x7f080107
+com.example.rinder:color/mtrl_textinput_disabled_color = 0x7f0500bb
+>>>>>>> master
 com.example.rinder:id/mtrl_picker_header_toggle = 0x7f0800f1
 com.example.rinder:layout/test_reflow_chipgroup = 0x7f0b0065
 com.example.rinder:layout/test_design_checkbox = 0x7f0b0063
@@ -634,6 +1005,7 @@ com.example.rinder:id/design_navigation_view = 0x7f080088
 com.example.rinder:drawable/abc_dialog_material_background = 0x7f07001a
 com.example.rinder:style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu = 0x7f0f02ad
 com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.HeaderConfirmButton = 0x7f0f028a
+<<<<<<< HEAD
 com.example.rinder:style/Widget.MaterialComponents.Button = 0x7f0f0268
 com.example.rinder:styleable/PopupWindow = 0x7f100058
 com.example.rinder:layout/notification_template_media_custom = 0x7f0b0079
@@ -648,12 +1020,24 @@ com.example.rinder:id/textView4 = 0x7f0801a5
 com.example.rinder:layout/design_bottom_sheet_dialog = 0x7f0b002d
 com.example.rinder:layout/browser_actions_context_menu_page = 0x7f0b0029
 com.example.rinder:layout/notification_template_big_media_narrow = 0x7f0b0075
+=======
+com.example.rinder:layout/design_menu_item_action_area = 0x7f0b0032
+com.example.rinder:style/Theme.Design.Light.BottomSheetDialog = 0x7f0f0199
+com.example.rinder:styleable/PopupWindow = 0x7f100058
+com.example.rinder:xml/standalone_badge_gravity_bottom_end = 0x7f110001
+com.example.rinder:layout/mtrl_alert_select_dialog_multichoice = 0x7f0b003f
+com.example.rinder:layout/design_bottom_sheet_dialog = 0x7f0b002d
+com.example.rinder:style/Base.TextAppearance.MaterialComponents.Subtitle2 = 0x7f0f0043
+com.example.rinder:id/pathRelative = 0x7f08010e
+com.example.rinder:layout/browser_actions_context_menu_page = 0x7f0b0029
+>>>>>>> master
 com.example.rinder:layout/activity_store = 0x7f0b0026
 com.example.rinder:styleable/ThemeEnforcement = 0x7f100073
 com.example.rinder:layout/activity_log_in = 0x7f0b0021
 com.example.rinder:layout/activity_home_page = 0x7f0b001f
 com.example.rinder:dimen/mtrl_btn_text_btn_padding_left = 0x7f0600c2
 com.example.rinder:layout/abc_screen_simple_overlay_action_mode = 0x7f0b0016
+<<<<<<< HEAD
 com.example.rinder:id/listname = 0x7f080197
 com.example.rinder:layout/notification_template_media = 0x7f0b0078
 com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.Year = 0x7f0f0292
@@ -662,6 +1046,10 @@ com.example.rinder:attr/buttonIconDimen = 0x7f030070
 com.example.rinder:dimen/mtrl_calendar_header_divider_thickness = 0x7f0600d4
 com.example.rinder:style/Widget.MaterialComponents.CompoundButton.CheckBox = 0x7f0f027b
 com.example.rinder:style/ShapeAppearanceOverlay.MaterialComponents.TextInputLayout.FilledBox = 0x7f0f011f
+=======
+com.example.rinder:style/ShapeAppearanceOverlay.MaterialComponents.TextInputLayout.FilledBox = 0x7f0f011f
+com.example.rinder:style/Widget.MaterialComponents.CompoundButton.CheckBox = 0x7f0f027b
+>>>>>>> master
 com.example.rinder:layout/abc_popup_menu_item_layout = 0x7f0b0013
 com.example.rinder:style/Widget.MaterialComponents.BottomAppBar.Colored = 0x7f0f0261
 com.example.rinder:drawable/material_ic_clear_black_24dp = 0x7f07008d
@@ -681,6 +1069,7 @@ com.example.rinder:layout/abc_action_menu_layout = 0x7f0b0003
 com.example.rinder:style/MaterialAlertDialog.MaterialComponents.Title.Panel.CenterStacked = 0x7f0f00eb
 com.example.rinder:styleable/CollapsingToolbarLayout = 0x7f10001a
 com.example.rinder:string/search_menu_title = 0x7f0e006d
+<<<<<<< HEAD
 com.example.rinder:layout/abc_action_bar_title_item = 0x7f0b0000
 com.example.rinder:attr/flow_horizontalBias = 0x7f03014d
 com.example.rinder:color/secondary_text_default_material_dark = 0x7f0500cf
@@ -688,6 +1077,17 @@ com.example.rinder:id/transition_current_scene = 0x7f080180
 com.example.rinder:attr/deltaPolarRadius = 0x7f0300fe
 com.example.rinder:layout/mtrl_calendar_months = 0x7f0b0048
 com.example.rinder:id/auto = 0x7f080050
+=======
+com.example.rinder:layout/mtrl_calendar_months = 0x7f0b0048
+com.example.rinder:id/auto = 0x7f080050
+com.example.rinder:style/Test.Widget.MaterialComponents.MaterialCalendar.Day = 0x7f0f0125
+com.example.rinder:style/Widget.MaterialComponents.Tooltip = 0x7f0f02b3
+com.example.rinder:attr/flow_horizontalBias = 0x7f03014d
+com.example.rinder:attr/deltaPolarRadius = 0x7f0300fe
+com.example.rinder:color/secondary_text_default_material_dark = 0x7f0500cf
+com.example.rinder:id/transition_current_scene = 0x7f080180
+com.example.rinder:layout/abc_action_bar_title_item = 0x7f0b0000
+>>>>>>> master
 com.example.rinder:style/TestStyleWithLineHeightAppearance = 0x7f0f0128
 com.example.rinder:style/Theme.AppCompat.Light.Dialog.MinWidth = 0x7f0f0192
 com.example.rinder:drawable/design_ic_visibility_off = 0x7f07007e
@@ -702,10 +1102,17 @@ com.example.rinder:style/Base.Theme.MaterialComponents.Bridge = 0x7f0f0056
 com.example.rinder:string/abc_searchview_description_search = 0x7f0e0015
 com.example.rinder:dimen/design_snackbar_max_width = 0x7f060080
 com.example.rinder:attr/alertDialogStyle = 0x7f030025
+<<<<<<< HEAD
 com.example.rinder:style/ShapeAppearanceOverlay.MaterialComponents.ExtendedFloatingActionButton = 0x7f0f011a
 com.example.rinder:style/Widget.MaterialComponents.BottomSheet = 0x7f0f0266
 com.example.rinder:style/Widget.AppCompat.Button.Borderless.Colored = 0x7f0f020b
 com.example.rinder:id/always = 0x7f08004b
+=======
+com.example.rinder:id/always = 0x7f08004b
+com.example.rinder:style/ShapeAppearanceOverlay.MaterialComponents.ExtendedFloatingActionButton = 0x7f0f011a
+com.example.rinder:style/Widget.MaterialComponents.BottomSheet = 0x7f0f0266
+com.example.rinder:style/Widget.AppCompat.Button.Borderless.Colored = 0x7f0f020b
+>>>>>>> master
 com.example.rinder:interpolator/btn_radio_to_off_mtrl_animation_interpolator_0 = 0x7f0a0004
 com.example.rinder:styleable/TextAppearance = 0x7f100070
 com.example.rinder:interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1 = 0x7f0a0003
@@ -714,8 +1121,11 @@ com.example.rinder:string/abc_capital_on = 0x7f0e0007
 com.example.rinder:color/material_on_primary_emphasis_high_type = 0x7f050080
 com.example.rinder:color/abc_color_highlight_material = 0x7f050004
 com.example.rinder:style/ShapeAppearanceOverlay.Cut = 0x7f0f0116
+<<<<<<< HEAD
 com.example.rinder:id/universityName = 0x7f0801ae
 com.example.rinder:id/notmember = 0x7f080101
+=======
+>>>>>>> master
 com.example.rinder:styleable/PropertySet = 0x7f10005a
 com.example.rinder:string/fab_transformation_scrim_behavior = 0x7f0e0038
 com.example.rinder:integer/status_bar_notification_info_maxnum = 0x7f090015
@@ -755,6 +1165,7 @@ com.example.rinder:style/Widget.Design.Snackbar = 0x7f0f0250
 com.example.rinder:id/transition_scene_layoutid_cache = 0x7f080183
 com.example.rinder:string/abc_searchview_description_clear = 0x7f0e0013
 com.example.rinder:style/Base.TextAppearance.AppCompat.Display1 = 0x7f0f0018
+<<<<<<< HEAD
 com.example.rinder:style/Base.ThemeOverlay.MaterialComponents.Dialog.Alert = 0x7f0f0070
 com.example.rinder:id/transition_position = 0x7f080182
 com.example.rinder:style/Base.Theme.MaterialComponents.Light.Dialog = 0x7f0f0062
@@ -765,11 +1176,27 @@ com.example.rinder:style/Widget.MaterialComponents.Light.ActionBar.Solid = 0x7f0
 com.example.rinder:style/Base.TextAppearance.AppCompat.Widget.Button.Inverse = 0x7f0f0039
 com.example.rinder:dimen/design_bottom_navigation_icon_size = 0x7f060063
 com.example.rinder:attr/materialCalendarHeaderLayout = 0x7f030210
+=======
+com.example.rinder:drawable/abc_text_cursor_material = 0x7f070050
+com.example.rinder:style/Base.TextAppearance.AppCompat.Widget.Button.Inverse = 0x7f0f0039
+com.example.rinder:dimen/design_bottom_navigation_icon_size = 0x7f060063
+com.example.rinder:attr/materialCalendarHeaderLayout = 0x7f030210
+com.example.rinder:style/Widget.MaterialComponents.Light.ActionBar.Solid = 0x7f0f0281
+com.example.rinder:style/TextAppearance.Design.Snackbar.Message = 0x7f0f016a
+com.example.rinder:style/Base.ThemeOverlay.MaterialComponents.Dialog.Alert = 0x7f0f0070
+com.example.rinder:style/Base.Theme.MaterialComponents.Light.Dialog = 0x7f0f0062
+com.example.rinder:id/transition_position = 0x7f080182
+com.example.rinder:id/ALT = 0x7f080000
+>>>>>>> master
 com.example.rinder:style/TextAppearance.MaterialComponents.Chip = 0x7f0f0172
 com.example.rinder:id/transitionToEnd = 0x7f08017e
 com.example.rinder:style/ThemeOverlay.MaterialComponents.TextInputEditText.FilledBox = 0x7f0f01f7
 com.example.rinder:id/container = 0x7f080075
 com.example.rinder:style/Widget.MaterialComponents.MaterialCalendar.Day.Selected = 0x7f0f0286
+<<<<<<< HEAD
+=======
+com.example.rinder:style/Widget.MaterialComponents.AutoCompleteTextView.FilledBox = 0x7f0f025b
+>>>>>>> master
 com.example.rinder:id/titleDividerNoCustom = 0x7f080178
 com.example.rinder:style/Base.TextAppearance.AppCompat.SearchResult.Subtitle = 0x7f0f0026
 com.example.rinder:style/Theme.MaterialComponents.NoActionBar = 0x7f0f01cb
@@ -799,9 +1226,14 @@ com.example.rinder:id/submenuarrow = 0x7f080157
 com.example.rinder:dimen/mtrl_tooltip_minWidth = 0x7f06013f
 com.example.rinder:id/noScroll = 0x7f0800fb
 com.example.rinder:styleable/AnimatedStateListDrawableItem = 0x7f100008
+<<<<<<< HEAD
 com.example.rinder:style/Widget.MaterialComponents.PopupMenu.Overflow = 0x7f0f0299
 com.example.rinder:integer/bottom_sheet_slide_duration = 0x7f090003
 com.example.rinder:id/tutorEmail = 0x7f0801a8
+=======
+com.example.rinder:integer/bottom_sheet_slide_duration = 0x7f090003
+com.example.rinder:style/Widget.MaterialComponents.PopupMenu.Overflow = 0x7f0f0299
+>>>>>>> master
 com.example.rinder:id/left = 0x7f0800ce
 com.example.rinder:layout/mtrl_calendar_horizontal = 0x7f0b0044
 com.example.rinder:id/stop = 0x7f080154
@@ -810,8 +1242,13 @@ com.example.rinder:id/src_over = 0x7f08014d
 com.example.rinder:string/mtrl_picker_toggle_to_year_selection = 0x7f0e0066
 com.example.rinder:style/MaterialAlertDialog.MaterialComponents.Title.Icon.CenterStacked = 0x7f0f00e9
 com.example.rinder:style/Theme.MaterialComponents.Light = 0x7f0f01b9
+<<<<<<< HEAD
 com.example.rinder:string/mtrl_picker_date_header_unselected = 0x7f0e004f
 com.example.rinder:id/src_in = 0x7f08014c
+=======
+com.example.rinder:id/src_in = 0x7f08014c
+com.example.rinder:string/mtrl_picker_date_header_unselected = 0x7f0e004f
+>>>>>>> master
 com.example.rinder:id/mtrl_picker_text_input_range_end = 0x7f0800f3
 com.example.rinder:string/mtrl_picker_out_of_range = 0x7f0e0056
 com.example.rinder:string/common_google_play_services_enable_title = 0x7f0e0025
@@ -824,9 +1261,15 @@ com.example.rinder:id/shortcut = 0x7f080139
 com.example.rinder:id/search_mag_icon = 0x7f080132
 com.example.rinder:styleable/MenuView = 0x7f10004e
 com.example.rinder:style/Theme.MaterialComponents.Light.Dialog.MinWidth = 0x7f0f01c5
+<<<<<<< HEAD
 com.example.rinder:style/Platform.V25.AppCompat.Light = 0x7f0f00fa
 com.example.rinder:style/Base.Theme.AppCompat.Dialog.MinWidth = 0x7f0f004c
 com.example.rinder:style/ThemeOverlay.AppCompat.Dialog.Alert = 0x7f0f01d5
+=======
+com.example.rinder:style/Base.Theme.AppCompat.Dialog.MinWidth = 0x7f0f004c
+com.example.rinder:style/ThemeOverlay.AppCompat.Dialog.Alert = 0x7f0f01d5
+com.example.rinder:style/Platform.V25.AppCompat.Light = 0x7f0f00fa
+>>>>>>> master
 com.example.rinder:id/scrollView = 0x7f08012a
 com.example.rinder:id/scrollIndicatorUp = 0x7f080129
 com.example.rinder:style/Widget.AppCompat.Spinner.DropDown.ActionBar = 0x7f0f0241
@@ -869,6 +1312,12 @@ com.example.rinder:id/browser_actions_menu_view = 0x7f08005f
 com.example.rinder:id/month_navigation_bar = 0x7f0800db
 com.example.rinder:style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Centered = 0x7f0f01ee
 com.example.rinder:id/bottom = 0x7f080059
+<<<<<<< HEAD
+=======
+com.example.rinder:id/mini = 0x7f0800d9
+com.example.rinder:id/accessibility_custom_action_9 = 0x7f080031
+com.example.rinder:style/Widget.MaterialComponents.CheckedTextView = 0x7f0f0275
+>>>>>>> master
 com.example.rinder:style/Widget.AppCompat.Light.ActivityChooserView = 0x7f0f0225
 com.example.rinder:id/layout = 0x7f0800cd
 com.example.rinder:string/path_password_eye_mask_visible = 0x7f0e006a
@@ -923,8 +1372,13 @@ com.example.rinder:id/dimensions = 0x7f08008a
 com.example.rinder:id/parallax = 0x7f080106
 com.example.rinder:layout/design_navigation_item = 0x7f0b0033
 com.example.rinder:id/mtrl_calendar_text_input_frame = 0x7f0800e7
+<<<<<<< HEAD
 com.example.rinder:styleable/AppBarLayout_Layout = 0x7f10000c
 com.example.rinder:id/dropdown_menu = 0x7f080095
+=======
+com.example.rinder:id/dropdown_menu = 0x7f080095
+com.example.rinder:styleable/AppBarLayout_Layout = 0x7f10000c
+>>>>>>> master
 com.example.rinder:id/dragUp = 0x7f080094
 com.example.rinder:string/icon_content_description = 0x7f0e0040
 com.example.rinder:style/Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge = 0x7f0f01a7
@@ -1029,7 +1483,10 @@ com.example.rinder:drawable/notification_bg_low_pressed = 0x7f0700a1
 com.example.rinder:drawable/notification_bg_low_normal = 0x7f0700a0
 com.example.rinder:color/material_deep_teal_500 = 0x7f050074
 com.example.rinder:dimen/notification_main_column_padding_top = 0x7f060148
+<<<<<<< HEAD
 com.example.rinder:id/tutorGender = 0x7f0801a9
+=======
+>>>>>>> master
 com.example.rinder:drawable/notification_bg_low = 0x7f07009f
 com.example.rinder:style/Widget.AppCompat.ActionBar.TabView = 0x7f0f0202
 com.example.rinder:drawable/notification_action_background = 0x7f07009d
@@ -1077,7 +1534,10 @@ com.example.rinder:string/abc_menu_enter_shortcut_label = 0x7f0e000b
 com.example.rinder:color/dim_foreground_disabled_material_light = 0x7f050066
 com.example.rinder:drawable/avd_show_password = 0x7f07005f
 com.example.rinder:dimen/design_navigation_elevation = 0x7f060073
+<<<<<<< HEAD
 com.example.rinder:dimen/subtitle_shadow_radius = 0x7f06015d
+=======
+>>>>>>> master
 com.example.rinder:id/easeInOut = 0x7f080097
 com.example.rinder:dimen/abc_select_dialog_padding_start_material = 0x7f06003a
 com.example.rinder:drawable/abc_textfield_search_default_mtrl_alpha = 0x7f07005a
@@ -1260,8 +1720,13 @@ com.example.rinder:dimen/mtrl_calendar_header_toggle_margin_top = 0x7f0600da
 com.example.rinder:style/TextAppearance.MaterialComponents.Button = 0x7f0f0170
 com.example.rinder:attr/chipIconSize = 0x7f03008e
 com.example.rinder:id/row_index_key = 0x7f080121
+<<<<<<< HEAD
 com.example.rinder:attr/selectableItemBackground = 0x7f030284
 com.example.rinder:dimen/mtrl_calendar_header_selection_line_height = 0x7f0600d7
+=======
+com.example.rinder:dimen/mtrl_calendar_header_selection_line_height = 0x7f0600d7
+com.example.rinder:attr/selectableItemBackground = 0x7f030284
+>>>>>>> master
 com.example.rinder:style/Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge = 0x7f0f01aa
 com.example.rinder:id/mtrl_picker_header_title_and_selection = 0x7f0800f0
 com.example.rinder:dimen/mtrl_calendar_header_content_padding = 0x7f0600d2
@@ -1306,6 +1771,11 @@ com.example.rinder:id/right_icon = 0x7f08011e
 com.example.rinder:styleable/MaterialCalendar = 0x7f100044
 com.example.rinder:dimen/material_text_view_test_line_height_override = 0x7f06009e
 com.example.rinder:attr/popupMenuStyle = 0x7f030261
+<<<<<<< HEAD
+=======
+com.example.rinder:style/Theme.MaterialComponents.Dialog.Alert.Bridge = 0x7f0f01b2
+com.example.rinder:drawable/abc_btn_check_to_on_mtrl_000 = 0x7f07000c
+>>>>>>> master
 com.example.rinder:color/abc_hint_foreground_material_dark = 0x7f050007
 com.example.rinder:drawable/abc_ic_search_api_material = 0x7f070027
 com.example.rinder:attr/contentInsetLeft = 0x7f0300cc
@@ -1484,7 +1954,10 @@ com.example.rinder:style/ShapeAppearance.MaterialComponents.LargeComponent = 0x7
 com.example.rinder:dimen/abc_text_size_title_material = 0x7f06004c
 com.example.rinder:styleable/ExtendedFloatingActionButton_Behavior_Layout = 0x7f100027
 com.example.rinder:color/primary_text_disabled_material_light = 0x7f0500c8
+<<<<<<< HEAD
 com.example.rinder:id/subset = 0x7f0801a3
+=======
+>>>>>>> master
 com.example.rinder:color/primary_text_disabled_material_dark = 0x7f0500c7
 com.example.rinder:attr/sizePercent = 0x7f030296
 com.example.rinder:color/primary_text_default_material_dark = 0x7f0500c5
@@ -1519,7 +1992,10 @@ com.example.rinder:color/mtrl_filled_icon_tint = 0x7f0500a9
 com.example.rinder:styleable/MaterialRadioButton = 0x7f100048
 com.example.rinder:color/mtrl_filled_background_color = 0x7f0500a8
 com.example.rinder:color/mtrl_fab_icon_text_color_selector = 0x7f0500a6
+<<<<<<< HEAD
 com.example.rinder:layout/activity_findstudy_patner = 0x7f0b006f
+=======
+>>>>>>> master
 com.example.rinder:color/mtrl_choice_chip_ripple_color = 0x7f0500a2
 com.example.rinder:color/mtrl_choice_chip_background_color = 0x7f0500a1
 com.example.rinder:layout/design_navigation_item_separator = 0x7f0b0035
@@ -1754,7 +2230,10 @@ com.example.rinder:attr/touchAnchorSide = 0x7f030321
 com.example.rinder:attr/touchAnchorId = 0x7f030320
 com.example.rinder:attr/layout_constraintLeft_toRightOf = 0x7f0301cf
 com.example.rinder:attr/tooltipText = 0x7f03031f
+<<<<<<< HEAD
 com.example.rinder:id/recv = 0x7f08019f
+=======
+>>>>>>> master
 com.example.rinder:style/Base.Widget.AppCompat.ActionBar.TabText = 0x7f0f009d
 com.example.rinder:attr/colorOnSecondary = 0x7f0300b7
 com.example.rinder:attr/tooltipForegroundColor = 0x7f03031c
@@ -1844,7 +2323,10 @@ com.example.rinder:attr/tabUnboundedRipple = 0x7f0302da
 com.example.rinder:style/ThemeOverlay.MaterialComponents.MaterialCalendar = 0x7f0f01f4
 com.example.rinder:anim/abc_grow_fade_in_from_bottom = 0x7f010002
 com.example.rinder:attr/tabTextColor = 0x7f0302d9
+<<<<<<< HEAD
 com.example.rinder:id/button2 = 0x7f0801a0
+=======
+>>>>>>> master
 com.example.rinder:attr/tabPaddingTop = 0x7f0302d4
 com.example.rinder:id/accessibility_custom_action_25 = 0x7f080024
 com.example.rinder:attr/boxStrokeErrorColor = 0x7f030065
@@ -1959,7 +2441,10 @@ com.example.rinder:attr/reverseLayout = 0x7f030277
 com.example.rinder:style/Widget.AppCompat.Light.ActionBar.TabBar = 0x7f0f021b
 com.example.rinder:attr/expandActivityOverflowButtonDrawable = 0x7f03012f
 com.example.rinder:attr/region_widthLessThan = 0x7f030275
+<<<<<<< HEAD
 com.example.rinder:string/hello_blank_fragment = 0x7f0e006f
+=======
+>>>>>>> master
 com.example.rinder:attr/itemHorizontalPadding = 0x7f030191
 com.example.rinder:attr/region_heightLessThan = 0x7f030273
 com.example.rinder:id/accessibility_custom_action_11 = 0x7f080015
@@ -2040,7 +2525,10 @@ com.example.rinder:style/RtlOverlay.Widget.AppCompat.Search.DropDown.Query = 0x7
 com.example.rinder:attr/panelBackground = 0x7f03024c
 com.example.rinder:attr/colorControlHighlight = 0x7f0300b0
 com.example.rinder:attr/paddingLeftSystemWindowInsets = 0x7f030248
+<<<<<<< HEAD
 com.example.rinder:id/media_actions = 0x7f08019d
+=======
+>>>>>>> master
 com.example.rinder:anim/btn_checkbox_to_unchecked_icon_null_animation = 0x7f010011
 com.example.rinder:attr/paddingBottomNoButtons = 0x7f030245
 com.example.rinder:attr/overlay = 0x7f030244
@@ -2136,7 +2624,10 @@ com.example.rinder:attr/maxActionInlineWidth = 0x7f030219
 com.example.rinder:style/Widget.AppCompat.RatingBar = 0x7f0f0238
 com.example.rinder:id/spread = 0x7f080148
 com.example.rinder:dimen/abc_floating_window_z = 0x7f06002f
+<<<<<<< HEAD
 com.example.rinder:dimen/subtitle_corner_radius = 0x7f06015a
+=======
+>>>>>>> master
 com.example.rinder:attr/tabIndicatorAnimationDuration = 0x7f0302c7
 com.example.rinder:attr/materialCalendarHeaderConfirmButton = 0x7f03020e
 com.example.rinder:style/Base.ThemeOverlay.AppCompat.ActionBar = 0x7f0f0069
@@ -2195,10 +2686,15 @@ com.example.rinder:attr/listChoiceIndicatorMultipleAnimated = 0x7f0301f4
 com.example.rinder:attr/cornerSizeBottomRight = 0x7f0300e1
 com.example.rinder:drawable/common_google_signin_btn_text_dark_normal = 0x7f070074
 com.example.rinder:attr/listChoiceBackgroundIndicator = 0x7f0301f3
+<<<<<<< HEAD
 com.example.rinder:style/TextAppearance.Compat.Notification.Time.Media = 0x7f0f02b8
 com.example.rinder:anim/abc_popup_enter = 0x7f010003
 com.example.rinder:attr/lineSpacing = 0x7f0301f2
 com.example.rinder:id/end_padder = 0x7f08019c
+=======
+com.example.rinder:anim/abc_popup_enter = 0x7f010003
+com.example.rinder:attr/lineSpacing = 0x7f0301f2
+>>>>>>> master
 com.example.rinder:attr/passwordToggleEnabled = 0x7f030251
 com.example.rinder:attr/limitBoundsTo = 0x7f0301f0
 com.example.rinder:integer/mtrl_btn_anim_delay_ms = 0x7f09000b
@@ -2302,7 +2798,10 @@ com.example.rinder:attr/textAppearanceHeadline2 = 0x7f0302e5
 com.example.rinder:attr/layout_constraintCircleAngle = 0x7f0301be
 com.example.rinder:dimen/highlight_alpha_material_colored = 0x7f060090
 com.example.rinder:attr/textAppearanceOverline = 0x7f0302ef
+<<<<<<< HEAD
 com.example.rinder:layout/notification_template_big_media = 0x7f0b0073
+=======
+>>>>>>> master
 com.example.rinder:attr/layout_constraintBottom_toTopOf = 0x7f0301bc
 com.example.rinder:style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse = 0x7f0f014e
 com.example.rinder:color/abc_background_cache_hint_selector_material_light = 0x7f050001
@@ -2498,10 +2997,15 @@ com.example.rinder:attr/customBoolean = 0x7f0300ed
 com.example.rinder:dimen/cardview_compat_inset_shadow = 0x7f060052
 com.example.rinder:attr/boxBackgroundMode = 0x7f03005e
 com.example.rinder:attr/cornerFamilyTopRight = 0x7f0300dd
+<<<<<<< HEAD
 com.example.rinder:id/tutorRegister = 0x7f0801ab
 com.example.rinder:id/transitionToStart = 0x7f08017f
 com.example.rinder:bool/mtrl_btn_textappearance_all_caps = 0x7f040003
 com.example.rinder:style/TextAppearance.Compat.Notification.Media = 0x7f0f02b7
+=======
+com.example.rinder:id/transitionToStart = 0x7f08017f
+com.example.rinder:bool/mtrl_btn_textappearance_all_caps = 0x7f040003
+>>>>>>> master
 com.example.rinder:attr/arrowShaftLength = 0x7f030031
 com.example.rinder:attr/background = 0x7f03003a
 com.example.rinder:id/month_grid = 0x7f0800da
@@ -2533,7 +3037,10 @@ com.example.rinder:style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.D
 com.example.rinder:attr/buttonSize = 0x7f030072
 com.example.rinder:attr/fastScrollEnabled = 0x7f030141
 com.example.rinder:dimen/mtrl_extended_fab_start_padding = 0x7f060106
+<<<<<<< HEAD
 com.example.rinder:layout/notification_template_big_media_narrow_custom = 0x7f0b0076
+=======
+>>>>>>> master
 com.example.rinder:attr/bottomAppBarStyle = 0x7f030059
 com.example.rinder:attr/cornerRadius = 0x7f0300de
 com.example.rinder:attr/fabCradleVerticalOffset = 0x7f03013e
@@ -2719,7 +3226,10 @@ com.example.rinder:color/design_dark_default_color_secondary_variant = 0x7f05004
 com.example.rinder:attr/contentInsetEnd = 0x7f0300ca
 com.example.rinder:drawable/common_google_signin_btn_text_light_normal = 0x7f070079
 com.example.rinder:attr/haloColor = 0x7f03016b
+<<<<<<< HEAD
 com.example.rinder:id/textView3 = 0x7f0801a4
+=======
+>>>>>>> master
 com.example.rinder:attr/drawableTintMode = 0x7f030113
 com.example.rinder:attr/actionBarTabTextStyle = 0x7f030008
 com.example.rinder:id/accessibility_action_clickable_span = 0x7f080011
@@ -2915,7 +3425,10 @@ com.example.rinder:attr/expandedTitleMarginStart = 0x7f030135
 com.example.rinder:string/google_api_key = 0x7f0e003b
 com.example.rinder:dimen/mtrl_calendar_day_today_stroke = 0x7f0600cd
 com.example.rinder:attr/buttonBarStyle = 0x7f03006d
+<<<<<<< HEAD
 com.example.rinder:id/listsub = 0x7f080198
+=======
+>>>>>>> master
 com.example.rinder:style/Base.Widget.AppCompat.Button.ButtonBar.AlertDialog = 0x7f0f00a8
 com.example.rinder:id/slide = 0x7f08013f
 com.example.rinder:drawable/support = 0x7f0700ab
@@ -3067,7 +3580,10 @@ com.example.rinder:attr/actionOverflowMenuStyle = 0x7f03001e
 com.example.rinder:attr/actionProviderClass = 0x7f03001f
 com.example.rinder:attr/listChoiceIndicatorSingleAnimated = 0x7f0301f5
 com.example.rinder:attr/backgroundColor = 0x7f03003b
+<<<<<<< HEAD
 com.example.rinder:id/recview = 0x7f080199
+=======
+>>>>>>> master
 com.example.rinder:id/mtrl_internal_children_alpha_tag = 0x7f0800eb
 com.example.rinder:drawable/design_bottom_navigation_item_background = 0x7f07007b
 com.example.rinder:id/all = 0x7f08004a

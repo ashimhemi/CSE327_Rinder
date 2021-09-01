@@ -1088,7 +1088,10 @@ color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+<<<<<<< HEAD
 color notification_material_background_media_default_color
+=======
+>>>>>>> master
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1457,10 +1460,13 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+<<<<<<< HEAD
 dimen subtitle_corner_radius
 dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
+=======
+>>>>>>> master
 dimen test_mtrl_calendar_day_cornerSize
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
@@ -1689,7 +1695,10 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
+<<<<<<< HEAD
 id action0
+=======
+>>>>>>> master
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1738,7 +1747,10 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id button
 id buttonPanel
+<<<<<<< HEAD
 id cancel_action
+=======
+>>>>>>> master
 id cancel_button
 id center
 id center_horizontal
@@ -1758,7 +1770,10 @@ id clip_horizontal
 id clip_vertical
 id collapseActionView
 id confirm_button
+<<<<<<< HEAD
 id connectbtn
+=======
+>>>>>>> master
 id container
 id content
 id contentPanel
@@ -1797,8 +1812,13 @@ id easeInOut
 id easeOut
 id edit_query
 id email
+<<<<<<< HEAD
 id end
 id end_padder
+=======
+id emailRegister
+id end
+>>>>>>> master
 id enterAlways
 id enterAlwaysCollapsed
 id exitUntilCollapsed
@@ -1809,14 +1829,21 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
+<<<<<<< HEAD
 id findStudypartner
+=======
+>>>>>>> master
 id findTutor
 id fitToContents
 id fixed
 id flip
 id floating
 id forever
+<<<<<<< HEAD
 id genderset
+=======
+id gender
+>>>>>>> master
 id ghost_view
 id ghost_view_holder
 id gone
@@ -1853,12 +1880,17 @@ id line3
 id linear
 id listMode
 id list_item
+<<<<<<< HEAD
 id listgender
 id listname
 id listsub
 id login
 id masked
 id media_actions
+=======
+id login
+id masked
+>>>>>>> master
 id message
 id middle
 id mini
@@ -1892,7 +1924,11 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
 id name
+<<<<<<< HEAD
 id namiset
+=======
+id nameRegister
+>>>>>>> master
 id navigation_header_container
 id never
 id noScroll
@@ -1911,6 +1947,10 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+<<<<<<< HEAD
+=======
+id passwordRegister
+>>>>>>> master
 id password_toggle
 id path
 id pathRelative
@@ -1925,8 +1965,13 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+<<<<<<< HEAD
 id recv
 id register
+=======
+id register
+id registerRegister
+>>>>>>> master
 id reverseSawtooth
 id right
 id right_icon
@@ -1983,6 +2028,7 @@ id startHorizontal
 id startVertical
 id staticLayout
 id staticPostLayout
+<<<<<<< HEAD
 id status_bar_latest_event_content
 id stop
 id stretch
@@ -1990,6 +2036,14 @@ id studyPartner
 id submenuarrow
 id submit_area
 id subset
+=======
+id stop
+id stretch
+id studyPartner
+id subject
+id submenuarrow
+id submit_area
+>>>>>>> master
 id support
 id tabMode
 id tag_accessibility_actions
@@ -2034,6 +2088,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+<<<<<<< HEAD
 id tutorEmail
 id tutorGender
 id tutorName
@@ -2043,6 +2098,10 @@ id tutorhello
 id unchecked
 id uniform
 id universityName
+=======
+id unchecked
+id uniform
+>>>>>>> master
 id unlabeled
 id up
 id useLogo
@@ -2117,15 +2176,22 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_about_us
 layout activity_add_patner
+<<<<<<< HEAD
 layout activity_amni
 layout activity_find_tutor
 layout activity_findstudyp
+=======
+layout activity_find_tutor
+>>>>>>> master
 layout activity_home_page
 layout activity_join_tutor
 layout activity_log_in
 layout activity_main
 layout activity_profile
+<<<<<<< HEAD
 layout activity_pview
+=======
+>>>>>>> master
 layout activity_registration
 layout activity_splash_screen
 layout activity_store
@@ -2179,6 +2245,7 @@ layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
 layout notification_action
 layout notification_action_tombstone
+<<<<<<< HEAD
 layout notification_media_action
 layout notification_media_cancel_action
 layout notification_template_big_media
@@ -2190,12 +2257,19 @@ layout notification_template_icon_group
 layout notification_template_lines_media
 layout notification_template_media
 layout notification_template_media_custom
+=======
+layout notification_template_custom_big
+layout notification_template_icon_group
+>>>>>>> master
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+<<<<<<< HEAD
 layout singlerow
+=======
+>>>>>>> master
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_chip_zero_corner_radius
@@ -2277,7 +2351,10 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+<<<<<<< HEAD
 string hello_blank_fragment
+=======
+>>>>>>> master
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2677,6 +2754,7 @@ style TextAppearance_AppCompat_Widget_Switch
 style TextAppearance_AppCompat_Widget_TextView_SpinnerItem
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
+<<<<<<< HEAD
 style TextAppearance_Compat_Notification_Info_Media
 style TextAppearance_Compat_Notification_Line2
 style TextAppearance_Compat_Notification_Line2_Media
@@ -2685,6 +2763,11 @@ style TextAppearance_Compat_Notification_Time
 style TextAppearance_Compat_Notification_Time_Media
 style TextAppearance_Compat_Notification_Title
 style TextAppearance_Compat_Notification_Title_Media
+=======
+style TextAppearance_Compat_Notification_Line2
+style TextAppearance_Compat_Notification_Time
+style TextAppearance_Compat_Notification_Title
+>>>>>>> master
 style TextAppearance_Design_CollapsingToolbar_Expanded
 style TextAppearance_Design_Counter
 style TextAppearance_Design_Counter_Overflow

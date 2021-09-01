@@ -21,10 +21,15 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Rinder" >
+<<<<<<< HEAD
         <activity android:name="com.example.rinder.amni" />
         <activity android:name="com.example.rinder.findstudyp" />
         <activity android:name="com.example.rinder.Pview" />
         <activity android:name="com.example.rinder.xyz" />
+=======
+        <activity android:name="com.example.rinder.xyz" >
+        </activity>
+>>>>>>> master
         <activity android:name="com.example.rinder.AboutUs" />
         <activity android:name="com.example.rinder.FindTutor" />
         <activity android:name="com.example.rinder.JoinTutor" />
