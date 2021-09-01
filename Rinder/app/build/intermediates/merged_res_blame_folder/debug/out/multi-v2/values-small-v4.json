@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "outputFile": "C:\\Users\\Asus\\Desktop\\Rinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\7427ca4d40460f4af497d743cc6eaaa6\\material-1.2.1\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-2\\files-2.1\\7427ca4d40460f4af497d743cc6eaaa6\\material-1.2.1\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

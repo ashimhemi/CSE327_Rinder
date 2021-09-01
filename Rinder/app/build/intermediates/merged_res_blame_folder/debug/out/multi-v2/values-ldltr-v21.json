@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "C:\\Users\\Asus\\Desktop\\Rinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

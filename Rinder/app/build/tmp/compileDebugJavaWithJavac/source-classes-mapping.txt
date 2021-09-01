@@ -1,44 +1,46 @@
+com/example/rinder/models/Message.java
+ com.example.rinder.models.Message
 com/example/rinder/Users.java
  com.example.rinder.Users
-<<<<<<< HEAD
-=======
-com/example/rinder/BuildConfig.java
- com.example.rinder.BuildConfig
->>>>>>> master
-com/example/rinder/FindTutor.java
- com.example.rinder.FindTutor
-com/example/rinder/AboutUs.java
- com.example.rinder.AboutUs
-com/example/rinder/xyz.java
- com.example.rinder.xyz
- com.example.rinder.xyz$1
-<<<<<<< HEAD
 com/example/rinder/Pview.java
  com.example.rinder.Pview
-com/example/rinder/MainActivity.java
- com.example.rinder.MainActivity
-com/example/rinder/Studypartner.java
- com.example.rinder.Studypartner
-com/example/rinder/model.java
- com.example.rinder.model
-=======
 com/example/rinder/Home_page.java
  com.example.rinder.Home_page
 com/example/rinder/Studypartner.java
  com.example.rinder.Studypartner
-com/example/rinder/MainActivity.java
- com.example.rinder.MainActivity
-com/example/rinder/Splash_screen.java
- com.example.rinder.Splash_screen
-com/example/rinder/Store.java
- com.example.rinder.Store
-com/example/rinder/JoinTutor.java
- com.example.rinder.JoinTutor
+com/example/rinder/amni.java
+ com.example.rinder.amni
 com/example/rinder/Profile.java
  com.example.rinder.Profile
-com/example/rinder/Add_patner.java
- com.example.rinder.Add_patner
->>>>>>> master
+com/example/rinder/Splash_screen.java
+ com.example.rinder.Splash_screen
+com/example/rinder/findstudyp.java
+ com.example.rinder.findstudyp
+ com.example.rinder.findstudyp$1
+ com.example.rinder.findstudyp$1$1
+ com.example.rinder.findstudyp$PackageViewHolder
+com/example/rinder/MainActivity.java
+ com.example.rinder.MainActivity
+com/example/rinder/BuildConfig.java
+ com.example.rinder.BuildConfig
+com/example/rinder/FindTutor.java
+ com.example.rinder.FindTutor
+com/example/rinder/interfaces/BotReply.java
+ com.example.rinder.interfaces.BotReply
+com/example/rinder/AboutUs.java
+ com.example.rinder.AboutUs
+com/example/rinder/adapters/ChatAdapter.java
+ com.example.rinder.adapters.ChatAdapter
+ com.example.rinder.adapters.ChatAdapter$MyViewHolder
+com/example/rinder/helpers/RequestJavaV2Task.java
+ com.example.rinder.helpers.RequestJavaV2Task
+com/example/rinder/xyz.java
+ com.example.rinder.xyz
+ com.example.rinder.xyz$1
+com/example/rinder/helpers/SendMessageInBg.java
+ com.example.rinder.helpers.SendMessageInBg
+com/example/rinder/model.java
+ com.example.rinder.model
 com/example/rinder/Registration.java
  com.example.rinder.Registration
  com.example.rinder.Registration$1
@@ -51,27 +53,12 @@ com/example/rinder/Log_in.java
  com.example.rinder.Log_in$1$1
  com.example.rinder.Log_in$1$2
  com.example.rinder.Log_in$2
-<<<<<<< HEAD
-com/example/rinder/amni.java
- com.example.rinder.amni
 com/example/rinder/Store.java
  com.example.rinder.Store
-com/example/rinder/BuildConfig.java
- com.example.rinder.BuildConfig
-com/example/rinder/Profile.java
- com.example.rinder.Profile
-com/example/rinder/Add_patner.java
- com.example.rinder.Add_patner
-com/example/rinder/Splash_screen.java
- com.example.rinder.Splash_screen
-com/example/rinder/findstudyp.java
- com.example.rinder.findstudyp
- com.example.rinder.findstudyp$1
- com.example.rinder.findstudyp$1$1
- com.example.rinder.findstudyp$PackageViewHolder
 com/example/rinder/JoinTutor.java
  com.example.rinder.JoinTutor
-com/example/rinder/Home_page.java
- com.example.rinder.Home_page
-=======
->>>>>>> master
+com/example/rinder/Add_patner.java
+ com.example.rinder.Add_patner
+com/example/rinder/chat.java
+ com.example.rinder.chat
+ com.example.rinder.chat$1

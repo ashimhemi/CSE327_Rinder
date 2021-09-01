@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Asus\\Desktop\\Rinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\5ec4f0d95d744b84fe65cf233b95e68a\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-2\\files-2.1\\5ec4f0d95d744b84fe65cf233b95e68a\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\7427ca4d40460f4af497d743cc6eaaa6\\material-1.2.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-2\\files-2.1\\7427ca4d40460f4af497d743cc6eaaa6\\material-1.2.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

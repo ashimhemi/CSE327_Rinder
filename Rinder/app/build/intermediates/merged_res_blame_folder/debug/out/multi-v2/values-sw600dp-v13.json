@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\Asus\\Desktop\\Rinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\7427ca4d40460f4af497d743cc6eaaa6\\material-1.2.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-2\\files-2.1\\7427ca4d40460f4af497d743cc6eaaa6\\material-1.2.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
