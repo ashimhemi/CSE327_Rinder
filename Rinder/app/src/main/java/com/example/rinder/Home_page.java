@@ -14,7 +14,7 @@ import java.nio.channels.AlreadyBoundException;
 public class Home_page extends AppCompatActivity implements View.OnClickListener {
 
 
-    private CardView profile,studyPartner,shop,joinTutor,findTutor,support,aboutUs;
+    private CardView profile,findstudypartner,studyPartner,shop,joinTutor,findTutor,support,aboutUs;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,11 +23,12 @@ public class Home_page extends AppCompatActivity implements View.OnClickListener
 
         getSupportActionBar().hide();
         if (Build.VERSION.SDK_INT >= 21) {
-            getWindow().setStatusBarColor(ContextCompat.getColor(this,R.color.bc));
+            getWindow().setStatusBarColor(ContextCompat.getColor(this,R.color.black2));
         }//status bar or the time bar at the top
 
         profile=(CardView) findViewById(R.id.profile);
         studyPartner=(CardView)findViewById(R.id.studyPartner);
+        findstudypartner=(CardView)findViewById(R.id.findStudypartner);
         shop=(CardView) findViewById(R.id.shop);
         joinTutor=(CardView)findViewById(R.id.joinTutor);
         findTutor=(CardView)findViewById(R.id.findTutor);
@@ -36,6 +37,7 @@ public class Home_page extends AppCompatActivity implements View.OnClickListener
 
         profile.setOnClickListener(this);
         studyPartner.setOnClickListener(this);
+        findstudypartner.setOnClickListener(this);
         shop.setOnClickListener(this);
         joinTutor.setOnClickListener(this);
         findTutor.setOnClickListener(this);
@@ -56,6 +58,10 @@ public class Home_page extends AppCompatActivity implements View.OnClickListener
                 break;
             case R.id.studyPartner:
                 i = new Intent(this,Studypartner.class);
+                startActivity(i);
+                break;
+            case R.id.findStudypartner:
+                i = new Intent(this,findstudyp.class);
                 startActivity(i);
                 break;
             case R.id.shop:
