@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Rinder.iml" filepath="$PROJECT_DIR$/.idea/Rinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rinder.iml" filepath="$PROJECT_DIR$/.idea/modules/Rinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Rinder.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Rinder.app.iml" />
     </modules>
   </component>
