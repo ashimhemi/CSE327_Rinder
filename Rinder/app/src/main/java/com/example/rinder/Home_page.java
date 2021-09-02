@@ -82,6 +82,10 @@ public class Home_page extends AppCompatActivity implements View.OnClickListener
                 i = new Intent(this,AboutUs.class);
                 startActivity(i);
                 break;
+            case R.id.support:
+                i = new Intent(this,chat.class);
+                startActivity(i);
+                break;
         }
 
     }
