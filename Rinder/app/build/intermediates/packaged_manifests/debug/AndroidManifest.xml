@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
+        android:name="androidx.multidex.MultiDexApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -21,21 +22,19 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Rinder" >
-<<<<<<< HEAD
+        <activity android:name="com.example.rinder.RequestViewProfile" />
+        <activity android:name="com.example.rinder.RequestList" />
+        <activity android:name="com.example.rinder.tutorprofileview" />
         <activity android:name="com.example.rinder.amni" />
         <activity android:name="com.example.rinder.findstudyp" />
         <activity android:name="com.example.rinder.Pview" />
         <activity android:name="com.example.rinder.xyz" />
-=======
-        <activity android:name="com.example.rinder.xyz" >
-        </activity>
->>>>>>> master
         <activity android:name="com.example.rinder.AboutUs" />
+        <activity android:name="com.example.rinder.chat" />
         <activity android:name="com.example.rinder.FindTutor" />
         <activity android:name="com.example.rinder.JoinTutor" />
         <activity android:name="com.example.rinder.Studypartner" />
         <activity android:name="com.example.rinder.Profile" />
-        <activity android:name="com.example.rinder.Add_patner" />
         <activity android:name="com.example.rinder.Registration" />
         <activity android:name="com.example.rinder.Store" />
         <activity android:name="com.example.rinder.Log_in" >

@@ -1,8 +1,28 @@
-<<<<<<< HEAD
-#Wed Sep 01 20:33:06 BDT 2021
-=======
-#Fri Aug 27 01:04:04 BDT 2021
->>>>>>> master
-base.0=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
+#Fri Sep 03 00:01:59 BDT 2021
+path.4=6/classes.dex
+path.3=14/classes.dex
+path.2=13/classes.dex
+path.1=0/classes.dex
+renamed.8=classes9.dex
+path.8=classes4.dex
+path.7=classes3.dex
+path.6=classes2.dex
+path.5=7/classes.dex
 path.0=classes.dex
+base.4=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.3=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.2=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.1=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.7=classes8.dex
+base.8=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes4.dex
+renamed.6=classes7.dex
+base.7=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+renamed.5=classes6.dex
+base.6=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+renamed.4=classes5.dex
+base.5=E\:\\Learning_folder\\Rinder\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex

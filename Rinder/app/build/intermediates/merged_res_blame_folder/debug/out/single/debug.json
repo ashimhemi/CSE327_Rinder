@@ -1,20 +1,113 @@
 [
     {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pview.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_pview.xml"
     },
     {
-=======
->>>>>>> master
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newchat.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\newchat.png"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_support.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\support.png"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_store.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_store.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tutorprofileview.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_tutorprofileview.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_studypartner.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_studypartner.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_chat_send.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\bg_chat_send.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_xyz.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_xyz.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_find_tutor.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\find_tutor.png"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_singlerow.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\singlerow.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_page.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_log_in.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_study_patner.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\study_patner.png"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_request_view_profile.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_request_view_profile.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shop.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\shop.png"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_tutor.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_find_tutor.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_request_list.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_request_list.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_layout_details.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable-v24\\layout_details.xml"
+    },
+    {
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -35,84 +128,44 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\about_us.png"
     },
     {
-<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_amni.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_amni.xml"
     },
     {
-=======
->>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_support.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\support.png"
-    },
-    {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_about_us.xml"
     },
     {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_store.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_store.xml"
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_outline.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\border_outline.xml"
     },
     {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-<<<<<<< HEAD
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_studypartner.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_studypartner.xml"
-    },
-    {
-=======
->>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-<<<<<<< HEAD
-=======
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_studypartner.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_studypartner.xml"
-    },
-    {
->>>>>>> master
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_registration.xml"
     },
     {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_xyz.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_xyz.xml"
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_tutorsinglerow.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\tutorsinglerow.xml"
     },
     {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_find_tutor.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\find_tutor.png"
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_chat_receive.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\bg_chat_receive.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_findstudyp.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_findstudyp.xml"
-    },
-    {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_singlerow.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\singlerow.xml"
-    },
-    {
-=======
->>>>>>> master
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_page.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_home_page.xml"
     },
     {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
@@ -123,106 +176,44 @@
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-<<<<<<< HEAD
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tutor.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\tutor.png"
     },
     {
-=======
->>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tutor.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\tutor.png"
-    },
-    {
->>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_log_in.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_log_in.xml"
-    },
-    {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_study_patner.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\study_patner.png"
     },
     {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_join_tutor.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_join_tutor.xml"
     },
     {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
-    },
-    {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-<<<<<<< HEAD
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shop.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\shop.png"
-    },
-    {
-=======
->>>>>>> master
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
-    },
-    {
-<<<<<<< HEAD
-=======
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shop.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable\\shop.png"
-    },
-    {
->>>>>>> master
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_tutor.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_find_tutor.xml"
     },
     {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-=======
->>>>>>> master
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-<<<<<<< HEAD
-=======
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
->>>>>>> master
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_message_one.xml.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\adapter_message_one.xml"
     },
     {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_man.png.flat",
         "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable-v24\\man.png"
     },
     {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_patner.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\layout\\activity_add_patner.xml"
-    },
-    {
-        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_layout_details.xml.flat",
-        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\drawable-v24\\layout_details.xml"
+        "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\raw_credential.json.flat",
+        "source": "E:\\Learning_folder\\Rinder\\app\\src\\main\\res\\raw\\credential.json"
     },
     {
         "merged": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",

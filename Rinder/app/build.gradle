@@ -5,13 +5,30 @@ plugins {
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.3"
+   buildToolsVersion "30.0.3"
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/INDEX.LIST'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/ASL2.0'
+        exclude("META-INF/*.kotlin_module")
+        pickFirst "androidsupportmultidexversion.txt"
+
+    }
+
 
     defaultConfig {
         applicationId "com.example.rinder"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
+        multiDexEnabled true
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -49,4 +66,11 @@ dependencies {
     //rec view
     implementation'androidx.recyclerview:recyclerview:1.1.0'
     implementation 'com.android.support:multidex:1.0.3'
+
+    implementation 'com.google.cloud:google-cloud-dialogflow:2.2.0'
+    implementation 'io.grpc:grpc-okhttp:1.31.1'
+    implementation 'com.loopj.android:android-async-http:1.4.11'
+
+
+
 }
