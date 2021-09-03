@@ -1,13 +1,14 @@
 package com.example.rinder;
 
 public class model {
-    public String uid,name,gender,subject;
+    public String uid,email,name,gender,subject;
 
     public model() {
     }
 
-    public model(String uid, String name, String gender, String subject) {
+    public model(String uid, String email, String name, String gender, String subject) {
         this.uid = uid;
+        this.email = email;
         this.name = name;
         this.gender = gender;
         this.subject = subject;
@@ -19,6 +20,14 @@ public class model {
 
     public void setUid(String uid) {
         this.uid = uid;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
     }
 
     public String getName() {
