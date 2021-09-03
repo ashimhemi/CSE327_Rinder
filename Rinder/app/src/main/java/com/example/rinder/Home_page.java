@@ -14,7 +14,7 @@ import java.nio.channels.AlreadyBoundException;
 public class Home_page extends AppCompatActivity implements View.OnClickListener {
 
 
-    private CardView profile,findstudypartner,studyPartner,shop,joinTutor,findTutor,support,aboutUs;
+    private CardView profile,findstudypartner,studyPartner,shop,joinTutor,findTutor,support,aboutUs,logout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +34,7 @@ public class Home_page extends AppCompatActivity implements View.OnClickListener
         findTutor=(CardView)findViewById(R.id.findTutor);
         support=(CardView)findViewById(R.id.support);
         aboutUs=(CardView)findViewById(R.id.aboutUs);
+        logout=(CardView)findViewById(R.id.logout);
 
         profile.setOnClickListener(this);
         studyPartner.setOnClickListener(this);
@@ -43,6 +44,7 @@ public class Home_page extends AppCompatActivity implements View.OnClickListener
         findTutor.setOnClickListener(this);
         support.setOnClickListener(this);
         aboutUs.setOnClickListener(this);
+        logout.setOnClickListener(this);
 
     }
 
@@ -81,6 +83,17 @@ public class Home_page extends AppCompatActivity implements View.OnClickListener
             case R.id.aboutUs:
                 i = new Intent(this,AboutUs.class);
                 startActivity(i);
+                break;
+            case R.id.support:
+                i = new Intent(this,chat.class);
+                startActivity(i);
+                break;
+
+            case R.id.logout:
+                i = new Intent(this,Log_in.class);
+                finish();
+                startActivity(i);
+
                 break;
         }
 

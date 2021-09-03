@@ -5,11 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black2"
-    tools:context=".findstudyp">
-
-
+    tools:context=".MystudypartnerList">
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/tutorrecv"
+        android:id="@+id/mystudypartnerrecv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"

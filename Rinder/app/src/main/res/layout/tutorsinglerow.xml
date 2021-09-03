@@ -20,7 +20,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Name: "
+                android:text="Tutor Name: "
 
                 android:textColor="@color/black2"
                 android:textStyle="bold"
@@ -28,13 +28,41 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="list Name"
+                android:text="list TName."
 
                 android:textColor="@color/black2"
-                android:id="@+id/listname"
+                android:id="@+id/listTname"
                 android:textStyle="bold"
                 android:textSize="18sp"/>
         </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Email: "
+
+                android:textColor="@color/black2"
+                android:textStyle="bold"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="list TName."
+
+                android:textColor="@color/black2"
+                android:id="@+id/listTemail"
+                android:textStyle="bold"
+                android:textSize="18sp"/>
+        </LinearLayout>
+
+
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -51,10 +79,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Male"
+                android:text="Male."
 
                 android:textColor="@color/black2"
-                android:id="@+id/listgender"
+                android:id="@+id/listTgender"
                 android:textStyle="bold"
                 android:textSize="18sp"/>
         </LinearLayout>
@@ -67,7 +95,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Email: "
+                android:text="University Name: "
                 android:textStyle="bold"
 
                 android:textColor="@color/black2"
@@ -75,10 +103,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="asif@gmail.com"
+                android:text="North South university."
 
                 android:textColor="@color/black2"
-                android:id="@+id/listmail"
+                android:id="@+id/listTuni"
                 android:textStyle="bold"
                 android:textSize="18sp"/>
         </LinearLayout>
@@ -103,7 +131,7 @@
                 android:text="CSE331,ENG111"
 
                 android:textColor="@color/black2"
-                android:id="@+id/listsub"
+                android:id="@+id/listTsub"
                 android:textStyle="bold"
                 android:textSize="18sp"/>
         </LinearLayout>

@@ -1,25 +1,25 @@
 package com.example.rinder;
 
-public class Users {
-    public String uid,name,email,gender,subject;
+public class Request {
+    String Uid, name, gender, subject,email;
 
-    public Users() {
+    public Request() {
     }
 
-    public Users(String uid, String name, String email, String gender, String subject) {
-        this.uid= uid;
+    public Request(String uid, String name, String gender, String subject, String email) {
+        Uid = uid;
         this.name = name;
-        this.email = email;
         this.gender = gender;
         this.subject = subject;
+        this.email = email;
     }
 
     public String getUid() {
-        return uid;
+        return Uid;
     }
 
     public void setUid(String uid) {
-        this.uid = uid;
+        Uid = uid;
     }
 
     public String getName() {
@@ -28,14 +28,6 @@ public class Users {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
     }
 
     public String getGender() {
@@ -52,5 +44,13 @@ public class Users {
 
     public void setSubject(String subject) {
         this.subject = subject;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
     }
 }

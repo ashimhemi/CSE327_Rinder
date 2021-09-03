@@ -20,7 +20,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 
-public class FindTutor extends AppCompatActivity {
+public class MystudypartnerList extends AppCompatActivity {
     private RecyclerView recyclerView;
 
     private DatabaseReference mDatabaseP;
@@ -29,19 +29,18 @@ public class FindTutor extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_find_tutor);
-
+        setContentView(R.layout.activity_mystudypartner_list);
 
         getSupportActionBar().hide();
         if (Build.VERSION.SDK_INT >= 21) {
             getWindow().setStatusBarColor(ContextCompat.getColor(this,R.color.black2));
         }//status bar or the time bar at the top
 
-        recyclerView=(RecyclerView)findViewById(R.id.tutorrecv);
+        recyclerView=(RecyclerView)findViewById(R.id.mystudypartnerrecv);
 
         mAuth=FirebaseAuth.getInstance();
 
-        mDatabaseP = FirebaseDatabase.getInstance().getReference().child("tutors");
+        // mDatabaseP = FirebaseDatabase.getInstance().getReference().child("users");
 
 
 
@@ -50,40 +49,39 @@ public class FindTutor extends AppCompatActivity {
     }
 
 
-
     @Override
     protected void onStart() {
         super.onStart();
-
+        final String id = FirebaseAuth.getInstance().getCurrentUser().getUid();
         Query query = FirebaseDatabase.getInstance()
                 .getReference()
-                .child("tutors")
+                .child("mystudypatners").child(id)
                 .limitToLast(50);
-        FirebaseRecyclerOptions<model2> options =
-                new FirebaseRecyclerOptions.Builder<model2>()
-                        .setQuery(query, model2.class)
+        FirebaseRecyclerOptions<model> options =
+                new FirebaseRecyclerOptions.Builder<model>()
+                        .setQuery(query, model.class)
                         .build();
         //Recycler for viewing the information of posts from database
-        FirebaseRecyclerAdapter adapter = new FirebaseRecyclerAdapter<model2, FindTutor.PackageViewHolder>(options) {
+        FirebaseRecyclerAdapter adapter = new FirebaseRecyclerAdapter<model, MystudypartnerList.PackageViewHolder>(options) {
             @Override
-            public FindTutor.PackageViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+            public MystudypartnerList.PackageViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
                 // Used same procedure as the posting options for pulling and setting information from database
                 View view = LayoutInflater.from(parent.getContext())
-                        .inflate(R.layout.tutorsinglerow, parent, false);
+                        .inflate(R.layout.singlerow, parent, false);
 
-                return new FindTutor.PackageViewHolder(view);
+                return new MystudypartnerList.PackageViewHolder(view);
             }
 
             @Override
-            protected void onBindViewHolder(FindTutor.PackageViewHolder holder, int position, model2 model2) {
+            protected void onBindViewHolder(MystudypartnerList.PackageViewHolder holder, int position, model model) {
 
                 String post_key = getRef(position).getKey();
                 final String userid = FirebaseAuth.getInstance().getCurrentUser().getUid();
-                holder.setName(model2.getTutorname());
-                holder.setGender(model2.getTutorgender());
-                holder.setUniversity(model2.getTutoruniversity());
-                holder.setEmail(model2.getTutoremail());
-                holder.setSub(model2.getTsubject());
+                holder.setName(model.getName());
+                holder.setGender(model.getGender());
+                holder.setSub(model.getSubject());
+                holder.setEmail(model.getEmail());
+
 
 
 
@@ -96,18 +94,18 @@ public class FindTutor extends AppCompatActivity {
                     public void onClick(View v) {
                         //Toast.makeText(PackageOptions.this,post_key,Toast.LENGTH_SHORT).show();
 
-/*                        Intent SinglePackageIntent = new Intent(FindTutor.this,tutorprofileview.class);
+/*                        Intent SinglePackageIntent = new Intent(MystudypartnerList.this,StudypatnersentMassage.class);
                         SinglePackageIntent.putExtra("Package_id",post_key);
-                        SinglePackageIntent.putExtra("name",model2.getTutorname());
-                        SinglePackageIntent.putExtra("gender",model2.getTutorgender());
-                        SinglePackageIntent.putExtra("email",model2.getTutoremail());
-                        SinglePackageIntent.putExtra("University",model2.getTutoruniversity());
-                        SinglePackageIntent.putExtra("subject",model2.getTsubject());
+                        SinglePackageIntent.putExtra("name",model.getName());
+                        SinglePackageIntent.putExtra("gender",model.getGender());
+                        SinglePackageIntent.putExtra("email",model.getEmail());
+                        SinglePackageIntent.putExtra("subject",model.getSubject());
                         startActivity(SinglePackageIntent);*/
+
                         Intent intent = new Intent(Intent.ACTION_SEND);
                         intent.setType("plain/text");
-                        intent.putExtra(Intent.EXTRA_EMAIL, new String[] { model2.getTutoremail() });
-                        intent.putExtra(Intent.EXTRA_SUBJECT, "I need you as a tutor!");
+                        intent.putExtra(Intent.EXTRA_EMAIL, new String[] { model.getEmail() });
+                        intent.putExtra(Intent.EXTRA_SUBJECT, "Rinder");
                         intent.putExtra(Intent.EXTRA_TEXT, " ");
                         startActivity(Intent.createChooser(intent, ""));
 
@@ -148,14 +146,14 @@ public class FindTutor extends AppCompatActivity {
 
         public void setName(String Lname){
 
-            TextView name = (TextView) mView.findViewById(R.id.listTname);
+            TextView name = (TextView) mView.findViewById(R.id.listname);
             name.setText(Lname);
 
         }
 
         public void setGender(String Ggender){
 
-            TextView gender = (TextView) mView.findViewById(R.id.listTgender);
+            TextView gender = (TextView) mView.findViewById(R.id.listgender);
             gender.setText(Ggender);
 
         }
@@ -163,21 +161,15 @@ public class FindTutor extends AppCompatActivity {
 
         public void setSub(String Ssub){
 
-            TextView subject = (TextView) mView.findViewById(R.id.listTsub);
+            TextView subject = (TextView) mView.findViewById(R.id.listsub);
             subject.setText(Ssub);
 
         }
+        public void setEmail(String Smail){
 
-        public void setUniversity(String Tuni){
+            TextView subject = (TextView) mView.findViewById(R.id.listmail);
+            subject.setText(Smail);
 
-            TextView uni = (TextView) mView.findViewById(R.id.listTuni);
-            uni.setText(Tuni);
-
-        }
-        public void setEmail(String temail)
-        {
-            TextView eemail=(TextView)mView.findViewById(R.id.listTemail);
-            eemail.setText(temail);
         }
 
 

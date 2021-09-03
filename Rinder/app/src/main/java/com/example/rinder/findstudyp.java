@@ -62,7 +62,7 @@ public class findstudyp extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-
+        final String Uid = FirebaseAuth.getInstance().getCurrentUser().getUid();
         Query query = FirebaseDatabase.getInstance()
                 .getReference()
                 .child("users")
@@ -72,13 +72,15 @@ public class findstudyp extends AppCompatActivity {
                         .setQuery(query, model.class)
                         .build();
         //Recycler for viewing the information of posts from database
+      //  FirebaseDatabase.getInstance().getReference().child("users").child(Uid);
+
         FirebaseRecyclerAdapter adapter = new FirebaseRecyclerAdapter<model, findstudyp.PackageViewHolder>(options) {
             @Override
             public findstudyp.PackageViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
                 // Used same procedure as the posting options for pulling and setting information from database
                 View view = LayoutInflater.from(parent.getContext())
                         .inflate(R.layout.singlerow, parent, false);
-
+                //FirebaseDatabase.getInstance().getReference().child("users").child(Uid);
                 return new findstudyp.PackageViewHolder(view);
             }
 
@@ -90,12 +92,12 @@ public class findstudyp extends AppCompatActivity {
                 holder.setName(model.getName());
                 holder.setGender(model.getGender());
                 holder.setSub(model.getSubject());
+                holder.setEmail(model.getEmail());
 
+/*                if(model.getUid() ==userid ){
 
-                if(model.getUid() ==userid ){
-
-                    holder.mView.setVisibility(View.INVISIBLE);
-                }
+                    Uid.setVisibility(View.GONE);
+                }*/
 
 
 
@@ -110,8 +112,11 @@ public class findstudyp extends AppCompatActivity {
                         SinglePackageIntent.putExtra("Package_id",post_key);
                         SinglePackageIntent.putExtra("name",model.getName());
                         SinglePackageIntent.putExtra("gender",model.getGender());
+                        SinglePackageIntent.putExtra("email",model.getEmail());
                         SinglePackageIntent.putExtra("subject",model.getSubject());
+                        finish();
                         startActivity(SinglePackageIntent);
+
 
                     }
                 });
@@ -170,6 +175,13 @@ public class findstudyp extends AppCompatActivity {
 
         }
 
+        public void setEmail(String Semail){
+
+            TextView email = (TextView) mView.findViewById(R.id.listmail);
+            email.setText(Semail);
+
+        }
+
 
     }
 
@@ -179,6 +191,7 @@ public class findstudyp extends AppCompatActivity {
         super.onStop();
 
     }
+
 
 
 }
