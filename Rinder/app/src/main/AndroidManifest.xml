@@ -15,8 +15,6 @@
         <activity android:name=".MystudypartnerList" />
         <activity android:name=".RequestViewProfile" />
         <activity android:name=".RequestList" />
-        <activity android:name=".tutorprofileview" />
-        <activity android:name=".amni" />
         <activity android:name=".findstudyp" />
         <activity android:name=".Pview" />
         <activity android:name=".xyz" />

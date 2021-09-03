@@ -96,14 +96,20 @@ public class FindTutor extends AppCompatActivity {
                     public void onClick(View v) {
                         //Toast.makeText(PackageOptions.this,post_key,Toast.LENGTH_SHORT).show();
 
-                        Intent SinglePackageIntent = new Intent(FindTutor.this,tutorprofileview.class);
+/*                        Intent SinglePackageIntent = new Intent(FindTutor.this,tutorprofileview.class);
                         SinglePackageIntent.putExtra("Package_id",post_key);
                         SinglePackageIntent.putExtra("name",model2.getTutorname());
                         SinglePackageIntent.putExtra("gender",model2.getTutorgender());
                         SinglePackageIntent.putExtra("email",model2.getTutoremail());
                         SinglePackageIntent.putExtra("University",model2.getTutoruniversity());
                         SinglePackageIntent.putExtra("subject",model2.getTsubject());
-                        startActivity(SinglePackageIntent);
+                        startActivity(SinglePackageIntent);*/
+                        Intent intent = new Intent(Intent.ACTION_SEND);
+                        intent.setType("plain/text");
+                        intent.putExtra(Intent.EXTRA_EMAIL, new String[] { model2.getTutoremail() });
+                        intent.putExtra(Intent.EXTRA_SUBJECT, "I need you as a tutor!");
+                        intent.putExtra(Intent.EXTRA_TEXT, " ");
+                        startActivity(Intent.createChooser(intent, ""));
 
                     }
                 });
