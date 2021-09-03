@@ -11,7 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Rinder">
-        <activity android:name=".tutorprofileview"></activity>
+        <activity android:name=".StudypatnersentMassage"></activity>
+        <activity android:name=".MystudypartnerList" />
+        <activity android:name=".RequestViewProfile" />
+        <activity android:name=".RequestList" />
+        <activity android:name=".tutorprofileview" />
         <activity android:name=".amni" />
         <activity android:name=".findstudyp" />
         <activity android:name=".Pview" />
@@ -22,7 +26,6 @@
         <activity android:name=".JoinTutor" />
         <activity android:name=".Studypartner" />
         <activity android:name=".Profile" />
-        <activity android:name=".Add_patner" />
         <activity android:name=".Registration" />
         <activity android:name=".Store" />
         <activity android:name=".Log_in">
