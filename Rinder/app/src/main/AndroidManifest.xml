@@ -11,11 +11,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Rinder">
-        <activity android:name=".StudypatnersentMassage"></activity>
+        <activity android:name=".ShopList"></activity>
+        <activity android:name=".Sellinformation" />
+        <activity android:name=".StudypatnersentMassage" />
         <activity android:name=".MystudypartnerList" />
         <activity android:name=".RequestViewProfile" />
         <activity android:name=".RequestList" />
-        <activity android:name=".findstudyp" />
+        <activity android:name=".Findstudyp" />
         <activity android:name=".Pview" />
         <activity android:name=".xyz" />
         <activity android:name=".AboutUs" />
