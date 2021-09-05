@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.rinder","c":"Log_in","l":"Log_in()","url":"%3Cinit%3E()"},{"p":"com.example.rinder","c":"Log_in","l":"onCreate(Bundle)","url":"onCreate(android.os.Bundle)"}]
