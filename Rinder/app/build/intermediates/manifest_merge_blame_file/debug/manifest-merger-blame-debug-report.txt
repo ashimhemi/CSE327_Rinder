@@ -18,423 +18,238 @@
 12-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
 13
 14    <application
-<<<<<<< HEAD
-14-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:7:5-36:19
-=======
-14-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:7:5-38:19
->>>>>>> master
-15        android:allowBackup="true"
-15-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:8:9-35
-16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.3.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\6bf1825676a144b1a47d9b1bea3658c2\core-1.3.1\AndroidManifest.xml:24:18-86
-17        android:debuggable="true"
-18        android:icon="@mipmap/ic_launcher"
-18-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:9:9-43
-19        android:label="@string/app_name"
-19-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:10:9-41
-20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:11:9-54
-21        android:supportsRtl="true"
-21-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:12:9-35
-22        android:testOnly="true"
-23        android:theme="@style/Theme.Rinder" >
-23-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:13:9-44
-<<<<<<< HEAD
-24        <activity android:name="com.example.rinder.amni" />
-24-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:9-51
-24-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:19-39
-25        <activity android:name="com.example.rinder.findstudyp" />
-25-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:15:9-57
-25-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:15:19-45
-26        <activity android:name="com.example.rinder.Pview" />
-26-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:16:9-52
-26-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:16:19-40
-27        <activity android:name="com.example.rinder.xyz" />
-27-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:17:9-41
-27-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:17:19-38
-28        <activity android:name="com.example.rinder.AboutUs" />
-28-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:18:9-45
-28-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:18:19-42
-29        <activity android:name="com.example.rinder.FindTutor" />
-29-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:9-47
-29-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:19-44
-30        <activity android:name="com.example.rinder.JoinTutor" />
-30-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:9-47
-30-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:19-44
-31        <activity android:name="com.example.rinder.Studypartner" />
-31-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:9-50
-31-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:19-47
-32        <activity android:name="com.example.rinder.Profile" />
-32-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:9-45
-32-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:19-42
-33        <activity android:name="com.example.rinder.Add_patner" />
-33-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:9-48
-33-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:19-45
-34        <activity android:name="com.example.rinder.Registration" />
-34-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:9-50
-34-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:19-47
-35        <activity android:name="com.example.rinder.Store" />
-35-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:9-43
-35-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:19-40
-36        <activity android:name="com.example.rinder.Log_in" >
-36-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:9-32:20
-36-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:19-41
-37            <intent-filter>
-37-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:27:13-31:29
-38                <action android:name="android.intent.action.MAIN" />
-38-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:28:17-69
-38-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:28:25-66
-39
-40                <category android:name="android.intent.category.LAUNCHER" />
-40-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:30:17-77
-40-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:30:27-74
-41            </intent-filter>
-42        </activity>
-43        <activity android:name="com.example.rinder.Splash_screen" />
-43-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:33:9-51
-43-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:33:19-48
-44        <activity android:name="com.example.rinder.Home_page" />
-44-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:34:9-47
-44-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:34:19-44
-45        <activity android:name="com.example.rinder.MainActivity" />
-45-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:35:9-50
-45-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:35:19-47
-46        <activity
-46-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
-47            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-47-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
-48            android:excludeFromRecents="true"
-48-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
-49            android:exported="true"
-49-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
-50            android:launchMode="singleTask"
-50-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
-51            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-51-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
-52            <intent-filter>
-52-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
-53                <action android:name="android.intent.action.VIEW" />
-53-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
-53-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
-54
-55                <category android:name="android.intent.category.DEFAULT" />
-55-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-55-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
-56                <category android:name="android.intent.category.BROWSABLE" />
-56-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
-56-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
-57
-58                <data
-58-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
-59                    android:host="firebase.auth"
-59-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
-60                    android:path="/"
-60-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
-61                    android:scheme="genericidp" />
-61-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
-62            </intent-filter>
-63        </activity>
-64        <activity
-64-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
-65            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-65-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
-66            android:excludeFromRecents="true"
-66-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
-67            android:exported="true"
-67-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
-68            android:launchMode="singleTask"
-68-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
-69            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-69-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
-70            <intent-filter>
-70-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
-71                <action android:name="android.intent.action.VIEW" />
-71-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
-71-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
-72
-73                <category android:name="android.intent.category.DEFAULT" />
-73-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-73-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
-74                <category android:name="android.intent.category.BROWSABLE" />
-74-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
-74-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
-75
-76                <data
-76-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
-77                    android:host="firebase.auth"
-77-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
-78                    android:path="/"
-78-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
-79                    android:scheme="recaptcha" />
-79-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
-80            </intent-filter>
-81        </activity>
-82
-83        <service
-83-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
-84            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
-84-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
-85            android:enabled="true"
-85-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
-86            android:exported="false" >
-86-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
-87            <intent-filter>
-87-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
-88                <action android:name="com.google.firebase.auth.api.gms.service.START" />
-88-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
-88-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
-89
-90                <category android:name="android.intent.category.DEFAULT" />
-90-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-90-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
-91            </intent-filter>
-92        </service>
-93        <service
-93-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
-94            android:name="com.google.firebase.components.ComponentDiscoveryService"
-94-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
-95            android:directBootAware="true"
-95-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
-96            android:exported="false" >
-96-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
-97            <meta-data
-97-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
-98                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-98-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
-99                android:value="com.google.firebase.components.ComponentRegistrar" />
-99-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
-100            <meta-data
-100-->[com.google.firebase:firebase-database:20.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\fe2cde7a06a61f0ee6058e37ca40a72c\firebase-database-20.0.1\AndroidManifest.xml:32:13-34:85
-101                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-101-->[com.google.firebase:firebase-database:20.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\fe2cde7a06a61f0ee6058e37ca40a72c\firebase-database-20.0.1\AndroidManifest.xml:33:17-109
-102                android:value="com.google.firebase.components.ComponentRegistrar" />
-102-->[com.google.firebase:firebase-database:20.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\fe2cde7a06a61f0ee6058e37ca40a72c\firebase-database-20.0.1\AndroidManifest.xml:34:17-82
-103        </service>
-104
-105        <provider
-105-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
-106            android:name="com.google.firebase.provider.FirebaseInitProvider"
-106-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
-107            android:authorities="com.example.rinder.firebaseinitprovider"
-107-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
-108            android:directBootAware="true"
-108-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
-109            android:exported="false"
-109-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
-110            android:initOrder="100" />
-110-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
-111
-112        <activity
-112-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
-113            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-113-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
-114            android:exported="false"
-114-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
-115            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-115-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
-116
-117        <meta-data
-117-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\068f7efb800363c8445ad97d23c345ec\play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
-118            android:name="com.google.android.gms.version"
-118-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\068f7efb800363c8445ad97d23c345ec\play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
-119            android:value="@integer/google_play_services_version" />
-119-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\068f7efb800363c8445ad97d23c345ec\play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
-120    </application>
-121
-122</manifest>
-=======
-24        <activity android:name="com.example.rinder.xyz" >
-24-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:9-18:20
-24-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:19-38
-25        </activity>
-26        <activity android:name="com.example.rinder.AboutUs" />
-26-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:9-45
-26-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:19-42
-27        <activity android:name="com.example.rinder.FindTutor" />
-27-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:9-47
-27-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:19-44
-28        <activity android:name="com.example.rinder.JoinTutor" />
-28-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:9-47
-28-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:19-44
-29        <activity android:name="com.example.rinder.Studypartner" />
-29-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:9-50
-29-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:19-47
-30        <activity android:name="com.example.rinder.Profile" />
-30-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:9-45
-30-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:19-42
-31        <activity android:name="com.example.rinder.Add_patner" />
-31-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:9-48
-31-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:19-45
-32        <activity android:name="com.example.rinder.Registration" />
-32-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:9-50
-32-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:19-47
-33        <activity android:name="com.example.rinder.Store" />
-33-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:9-43
-33-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:19-40
-34        <activity android:name="com.example.rinder.Log_in" >
-34-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:27:9-34:20
-34-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:27:19-41
-35            <intent-filter>
-35-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:28:13-32:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:29:17-69
-36-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:29:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:31:17-77
-38-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:31:27-74
-39            </intent-filter>
-40        </activity>
-41        <activity android:name="com.example.rinder.Splash_screen" />
-41-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:35:9-51
-41-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:35:19-48
-42        <activity android:name="com.example.rinder.Home_page" />
-42-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:36:9-47
-42-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:36:19-44
-43        <activity android:name="com.example.rinder.MainActivity" />
-43-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:37:9-50
-43-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:37:19-47
-44        <activity
-44-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
-45            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-45-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
-46            android:excludeFromRecents="true"
-46-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
-47            android:exported="true"
-47-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
-48            android:launchMode="singleTask"
-48-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
-49            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-49-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
-50            <intent-filter>
-50-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
-51                <action android:name="android.intent.action.VIEW" />
-51-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
-51-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
-52
-53                <category android:name="android.intent.category.DEFAULT" />
-53-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-53-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
-54                <category android:name="android.intent.category.BROWSABLE" />
-54-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
-54-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
-55
-56                <data
-56-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
-57                    android:host="firebase.auth"
-57-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
-58                    android:path="/"
-58-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
-59                    android:scheme="genericidp" />
-59-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
-60            </intent-filter>
-61        </activity>
-62        <activity
-62-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
-63            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-63-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
-64            android:excludeFromRecents="true"
-64-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
-65            android:exported="true"
-65-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
-66            android:launchMode="singleTask"
-66-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
-67            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-67-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
-68            <intent-filter>
-68-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
-69                <action android:name="android.intent.action.VIEW" />
-69-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
-69-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
-70
-71                <category android:name="android.intent.category.DEFAULT" />
-71-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-71-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
-72                <category android:name="android.intent.category.BROWSABLE" />
-72-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
-72-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
-73
-74                <data
-74-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
-75                    android:host="firebase.auth"
-75-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
-76                    android:path="/"
-76-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
-77                    android:scheme="recaptcha" />
-77-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
-78            </intent-filter>
-79        </activity>
-80
-81        <service
-81-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
-82            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
-82-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
-83            android:enabled="true"
-83-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
-84            android:exported="false" >
-84-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
-85            <intent-filter>
-85-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
-86                <action android:name="com.google.firebase.auth.api.gms.service.START" />
-86-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
-86-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
-87
-88                <category android:name="android.intent.category.DEFAULT" />
-88-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
-88-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
-89            </intent-filter>
-90        </service>
-91        <service
-91-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
-92            android:name="com.google.firebase.components.ComponentDiscoveryService"
-92-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
-93            android:directBootAware="true"
-93-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
-94            android:exported="false" >
-94-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
-95            <meta-data
-95-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
-96                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-96-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
-97                android:value="com.google.firebase.components.ComponentRegistrar" />
-97-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
-98            <meta-data
-98-->[com.google.firebase:firebase-database:20.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\fe2cde7a06a61f0ee6058e37ca40a72c\firebase-database-20.0.1\AndroidManifest.xml:32:13-34:85
-99                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-99-->[com.google.firebase:firebase-database:20.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\fe2cde7a06a61f0ee6058e37ca40a72c\firebase-database-20.0.1\AndroidManifest.xml:33:17-109
-100                android:value="com.google.firebase.components.ComponentRegistrar" />
-100-->[com.google.firebase:firebase-database:20.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\fe2cde7a06a61f0ee6058e37ca40a72c\firebase-database-20.0.1\AndroidManifest.xml:34:17-82
-101        </service>
-102
-103        <provider
-103-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
-104            android:name="com.google.firebase.provider.FirebaseInitProvider"
-104-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
-105            android:authorities="com.example.rinder.firebaseinitprovider"
-105-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
-106            android:directBootAware="true"
-106-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
-107            android:exported="false"
-107-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
-108            android:initOrder="100" />
-108-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
-109
-110        <activity
-110-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
-111            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-111-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
-112            android:exported="false"
-112-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
-113            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-113-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
-114
-115        <meta-data
-115-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\068f7efb800363c8445ad97d23c345ec\play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
-116            android:name="com.google.android.gms.version"
-116-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\068f7efb800363c8445ad97d23c345ec\play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
-117            android:value="@integer/google_play_services_version" />
-117-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\068f7efb800363c8445ad97d23c345ec\play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
-118    </application>
-119
-120</manifest>
->>>>>>> master
+14-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:7:5-41:19
+15        android:name="androidx.multidex.MultiDexApplication"
+16        android:allowBackup="true"
+16-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:8:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\6bf1825676a144b1a47d9b1bea3658c2\core-1.3.1\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:9:9-43
+20        android:label="@string/app_name"
+20-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:10:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:11:9-54
+22        android:supportsRtl="true"
+22-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:12:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.Rinder" >
+24-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:13:9-44
+25        <activity android:name="com.example.rinder.ShopList" />
+25-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:9-55
+25-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:19-43
+26        <activity android:name="com.example.rinder.Sellinformation" />
+26-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:15:9-53
+26-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:15:19-50
+27        <activity android:name="com.example.rinder.StudypatnersentMassage" />
+27-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:16:9-60
+27-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:16:19-57
+28        <activity android:name="com.example.rinder.MystudypartnerList" />
+28-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:17:9-56
+28-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:17:19-53
+29        <activity android:name="com.example.rinder.RequestViewProfile" />
+29-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:18:9-56
+29-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:18:19-53
+30        <activity android:name="com.example.rinder.RequestList" />
+30-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:9-49
+30-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:19-46
+31        <activity android:name="com.example.rinder.Findstudyp" />
+31-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:9-48
+31-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:19-45
+32        <activity android:name="com.example.rinder.Pview" />
+32-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:9-43
+32-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:19-40
+33        <activity android:name="com.example.rinder.xyz" />
+33-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:9-41
+33-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:19-38
+34        <activity android:name="com.example.rinder.AboutUs" />
+34-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:9-45
+34-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:19-42
+35        <activity android:name="com.example.rinder.chat" />
+35-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:9-42
+35-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:19-39
+36        <activity android:name="com.example.rinder.FindTutor" />
+36-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:9-47
+36-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:19-44
+37        <activity android:name="com.example.rinder.JoinTutor" />
+37-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:9-47
+37-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:19-44
+38        <activity android:name="com.example.rinder.Studypartner" />
+38-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:27:9-50
+38-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:27:19-47
+39        <activity android:name="com.example.rinder.Profile" />
+39-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:28:9-45
+39-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:28:19-42
+40        <activity android:name="com.example.rinder.Registration" />
+40-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:29:9-50
+40-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:29:19-47
+41        <activity android:name="com.example.rinder.Store" />
+41-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:30:9-43
+41-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:30:19-40
+42        <activity android:name="com.example.rinder.Log_in" >
+42-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:31:9-37:20
+42-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:31:19-41
+43            <intent-filter>
+43-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:32:13-36:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:33:17-69
+44-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:33:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:35:17-77
+46-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:35:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity android:name="com.example.rinder.Splash_screen" />
+49-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:38:9-51
+49-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:38:19-48
+50        <activity android:name="com.example.rinder.Home_page" />
+50-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:39:9-47
+50-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:39:19-44
+51        <activity android:name="com.example.rinder.MainActivity" />
+51-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:40:9-50
+51-->E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:40:19-47
+52        <activity
+52-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+53            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+53-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+54            android:excludeFromRecents="true"
+54-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+55            android:exported="true"
+55-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+56            android:launchMode="singleTask"
+56-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+57            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+57-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+58            <intent-filter>
+58-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+59                <action android:name="android.intent.action.VIEW" />
+59-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+59-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+60
+61                <category android:name="android.intent.category.DEFAULT" />
+61-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+61-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+62                <category android:name="android.intent.category.BROWSABLE" />
+62-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+62-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+63
+64                <data
+64-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+65                    android:host="firebase.auth"
+65-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+66                    android:path="/"
+66-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+67                    android:scheme="genericidp" />
+67-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+71            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+71-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+72            android:excludeFromRecents="true"
+72-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+73            android:exported="true"
+73-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+74            android:launchMode="singleTask"
+74-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+75            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+75-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+76            <intent-filter>
+76-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+77                <action android:name="android.intent.action.VIEW" />
+77-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+77-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+78
+79                <category android:name="android.intent.category.DEFAULT" />
+79-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+79-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+80                <category android:name="android.intent.category.BROWSABLE" />
+80-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+80-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+81
+82                <data
+82-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+83                    android:host="firebase.auth"
+83-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+84                    android:path="/"
+84-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+85                    android:scheme="recaptcha" />
+85-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+86            </intent-filter>
+87        </activity>
+88
+89        <service
+89-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+90            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+90-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+91            android:enabled="true"
+91-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+92            android:exported="false" >
+92-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+93            <intent-filter>
+93-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+94                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+94-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+94-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+95
+96                <category android:name="android.intent.category.DEFAULT" />
+96-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+96-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+97            </intent-filter>
+98        </service>
+99        <service
+99-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+100            android:name="com.google.firebase.components.ComponentDiscoveryService"
+100-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+101            android:directBootAware="true"
+101-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+102            android:exported="false" >
+102-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+103            <meta-data
+103-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+104                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+104-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\8789e1b5f5d72a0e60fe6a91658fd56a\firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-database:20.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\fe2cde7a06a61f0ee6058e37ca40a72c\firebase-database-20.0.1\AndroidManifest.xml:32:13-34:85
+107                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+107-->[com.google.firebase:firebase-database:20.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\fe2cde7a06a61f0ee6058e37ca40a72c\firebase-database-20.0.1\AndroidManifest.xml:33:17-109
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-database:20.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\fe2cde7a06a61f0ee6058e37ca40a72c\firebase-database-20.0.1\AndroidManifest.xml:34:17-82
+109        </service>
+110
+111        <provider
+111-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+112            android:name="com.google.firebase.provider.FirebaseInitProvider"
+112-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+113            android:authorities="com.example.rinder.firebaseinitprovider"
+113-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+114            android:directBootAware="true"
+114-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+115            android:exported="false"
+115-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+116            android:initOrder="100" />
+116-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\a290a42657b5c166afc7163c07f133aa\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+117
+118        <activity
+118-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+119            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+119-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+120            android:exported="false"
+120-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+121            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+121-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\b98a5f19b35445d41c86654f8d0d32f6\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+122
+123        <meta-data
+123-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\068f7efb800363c8445ad97d23c345ec\play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+124            android:name="com.google.android.gms.version"
+124-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\068f7efb800363c8445ad97d23c345ec\play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
+125            android:value="@integer/google_play_services_version" />
+125-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\068f7efb800363c8445ad97d23c345ec\play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+126    </application>
+127
+128</manifest>

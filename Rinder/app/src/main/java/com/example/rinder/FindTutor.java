@@ -20,11 +20,23 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 
+/**
+ * This class is for Find tutor.
+ * @author Piyash
+ * @version 1.0
+ *
+ */
+
 public class FindTutor extends AppCompatActivity {
     private RecyclerView recyclerView;
 
     private DatabaseReference mDatabaseP;
     private FirebaseAuth mAuth;
+
+    /**
+     * This is an on create function for accessing xml file and Initializing Hooks.
+     * @param savedInstanceState
+     */
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,7 +62,9 @@ public class FindTutor extends AppCompatActivity {
     }
 
 
-
+    /**
+     * This is a on start function for start the activity.
+     */
     @Override
     protected void onStart() {
         super.onStart();
@@ -74,6 +88,13 @@ public class FindTutor extends AppCompatActivity {
                 return new FindTutor.PackageViewHolder(view);
             }
 
+            /**
+             * This is bind view holder for holding data.
+             * @param holder
+             * @param position
+             * @param model2
+             */
+
             @Override
             protected void onBindViewHolder(FindTutor.PackageViewHolder holder, int position, model2 model2) {
 
@@ -93,6 +114,10 @@ public class FindTutor extends AppCompatActivity {
 
                 holder.mView.setOnClickListener(new View.OnClickListener() {
                     @Override
+                    /**
+                     * On click function for access the recycler view.
+                     * By pressing on click function, It will help to go to gmail.
+                     */
                     public void onClick(View v) {
                         //Toast.makeText(PackageOptions.this,post_key,Toast.LENGTH_SHORT).show();
 
@@ -121,7 +146,9 @@ public class FindTutor extends AppCompatActivity {
 
     }
 
-
+    /**
+     * This static class help to fit data into holder.
+     */
     public static class PackageViewHolder extends RecyclerView.ViewHolder{
 
         View mView;
@@ -144,7 +171,10 @@ public class FindTutor extends AppCompatActivity {
 
         }
 
-
+        /**
+         * Set tutor name in rec view.
+         * @param Lname
+         */
 
         public void setName(String Lname){
 
@@ -153,12 +183,22 @@ public class FindTutor extends AppCompatActivity {
 
         }
 
+        /**
+         * set tutor gender.
+         * @param Ggender
+         */
+
         public void setGender(String Ggender){
 
             TextView gender = (TextView) mView.findViewById(R.id.listTgender);
             gender.setText(Ggender);
 
         }
+
+        /**
+         * set tutor subject.
+         * @param Ssub
+         */
 
 
         public void setSub(String Ssub){
@@ -168,12 +208,22 @@ public class FindTutor extends AppCompatActivity {
 
         }
 
+        /**
+         * Set tutor university name.
+         * @param Tuni
+         */
+
         public void setUniversity(String Tuni){
 
             TextView uni = (TextView) mView.findViewById(R.id.listTuni);
             uni.setText(Tuni);
 
         }
+
+        /**
+         * set tutor email.
+         * @param temail
+         */
         public void setEmail(String temail)
         {
             TextView eemail=(TextView)mView.findViewById(R.id.listTemail);
@@ -183,7 +233,9 @@ public class FindTutor extends AppCompatActivity {
 
     }
 
-
+    /**
+     * on stop function to stop activity.
+     */
     @Override
     protected void onStop() {
         super.onStop();

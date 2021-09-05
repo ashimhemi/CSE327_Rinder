@@ -63,18 +63,18 @@ public class RequestList extends AppCompatActivity {
                         .setQuery(query, model.class)
                         .build();
         //Recycler for viewing the information of posts from database
-        FirebaseRecyclerAdapter adapter = new FirebaseRecyclerAdapter<model, findstudyp.PackageViewHolder>(options) {
+        FirebaseRecyclerAdapter adapter = new FirebaseRecyclerAdapter<model, Findstudyp.PackageViewHolder>(options) {
             @Override
-            public findstudyp.PackageViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+            public Findstudyp.PackageViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
                 // Used same procedure as the posting options for pulling and setting information from database
                 View view = LayoutInflater.from(parent.getContext())
                         .inflate(R.layout.singlerow, parent, false);
 
-                return new findstudyp.PackageViewHolder(view);
+                return new Findstudyp.PackageViewHolder(view);
             }
 
             @Override
-            protected void onBindViewHolder(findstudyp.PackageViewHolder holder, int position, model model) {
+            protected void onBindViewHolder(Findstudyp.PackageViewHolder holder, int position, model model) {
 
                 String post_key = getRef(position).getKey();
                 final String userid = FirebaseAuth.getInstance().getCurrentUser().getUid();

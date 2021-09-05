@@ -1088,10 +1088,7 @@ color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
-<<<<<<< HEAD
 color notification_material_background_media_default_color
-=======
->>>>>>> master
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1104,6 +1101,7 @@ color purple_200
 color purple_500
 color purple_700
 color radiobutton_themeable_attribute_color
+color red
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -1460,13 +1458,10 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
-<<<<<<< HEAD
 dimen subtitle_corner_radius
 dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
-=======
->>>>>>> master
 dimen test_mtrl_calendar_day_cornerSize
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
@@ -1565,6 +1560,9 @@ drawable abc_vector_test
 drawable about_us
 drawable avd_hide_password
 drawable avd_show_password
+drawable bg_chat_receive
+drawable bg_chat_send
+drawable border_outline
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1599,6 +1597,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable find_tutor
+drawable findstudypatner
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_launcher_background
@@ -1626,6 +1625,7 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_dark
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable newchat
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -1645,6 +1645,8 @@ drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable tutor
+drawable user
+drawable user1
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1662,6 +1664,7 @@ id TOP_END
 id TOP_START
 id aboutUs
 id accelerate
+id acceptbtn
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -1695,10 +1698,7 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
-<<<<<<< HEAD
 id action0
-=======
->>>>>>> master
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1738,6 +1738,12 @@ id baseline
 id beginOnFirstDraw
 id beginning
 id blocking
+id bookBtn
+id bookComment
+id bookMail
+id bookName
+id bookPrice
+id bookaddress
 id bottom
 id bounce
 id browser_actions_header_text
@@ -1745,18 +1751,22 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id bt1
+id bt2
+id bt3
+id bt4
+id btnSend
 id button
 id buttonPanel
-<<<<<<< HEAD
+id buyBtn
 id cancel_action
-=======
->>>>>>> master
 id cancel_button
 id center
 id center_horizontal
 id center_vertical
 id chain
 id chains
+id chatView
 id checkbox
 id checked
 id chip
@@ -1770,10 +1780,8 @@ id clip_horizontal
 id clip_vertical
 id collapseActionView
 id confirm_button
-<<<<<<< HEAD
 id connectbtn
-=======
->>>>>>> master
+id constraintLayout
 id container
 id content
 id contentPanel
@@ -1810,15 +1818,11 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
+id editMessage
 id edit_query
 id email
-<<<<<<< HEAD
 id end
 id end_padder
-=======
-id emailRegister
-id end
->>>>>>> master
 id enterAlways
 id enterAlwaysCollapsed
 id exitUntilCollapsed
@@ -1829,21 +1833,14 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
-<<<<<<< HEAD
 id findStudypartner
-=======
->>>>>>> master
 id findTutor
 id fitToContents
 id fixed
 id flip
 id floating
 id forever
-<<<<<<< HEAD
 id genderset
-=======
-id gender
->>>>>>> master
 id ghost_view
 id ghost_view_holder
 id gone
@@ -1879,19 +1876,24 @@ id line1
 id line3
 id linear
 id listMode
+id listTemail
+id listTgender
+id listTname
+id listTsub
+id listTuni
 id list_item
-<<<<<<< HEAD
 id listgender
+id listmail
 id listname
 id listsub
 id login
+id logout
+id mailset
 id masked
 id media_actions
-=======
-id login
-id masked
->>>>>>> master
 id message
+id message_receive
+id message_send
 id middle
 id mini
 id month_grid
@@ -1923,12 +1925,9 @@ id mtrl_picker_text_input_range_end
 id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
+id mystudypartnerrecv
 id name
-<<<<<<< HEAD
 id namiset
-=======
-id nameRegister
->>>>>>> master
 id navigation_header_container
 id never
 id noScroll
@@ -1947,31 +1946,28 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
-<<<<<<< HEAD
-=======
-id passwordRegister
->>>>>>> master
 id password_toggle
 id path
 id pathRelative
 id peekHeight
 id percent
+id pgender
 id pin
+id pname
 id position
 id postLayout
 id profile
 id progress_circular
 id progress_horizontal
+id psub
 id radio
 id ratio
 id rectangles
-<<<<<<< HEAD
 id recv
 id register
-=======
-id register
-id registerRegister
->>>>>>> master
+id rejectbtn
+id requestbtn
+id requestrec
 id reverseSawtooth
 id right
 id right_icon
@@ -2000,6 +1996,7 @@ id search_src_text
 id search_voice_btn
 id select_dialog_listview
 id selected
+id sellBtn
 id shop
 id shortcut
 id showCustom
@@ -2028,7 +2025,6 @@ id startHorizontal
 id startVertical
 id staticLayout
 id staticPostLayout
-<<<<<<< HEAD
 id status_bar_latest_event_content
 id stop
 id stretch
@@ -2036,14 +2032,6 @@ id studyPartner
 id submenuarrow
 id submit_area
 id subset
-=======
-id stop
-id stretch
-id studyPartner
-id subject
-id submenuarrow
-id submit_area
->>>>>>> master
 id support
 id tabMode
 id tag_accessibility_actions
@@ -2064,6 +2052,8 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
+id textView2
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -2088,24 +2078,21 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-<<<<<<< HEAD
 id tutorEmail
 id tutorGender
 id tutorName
 id tutorRegister
 id tutorSubject
 id tutorhello
+id tutorrecv
 id unchecked
 id uniform
 id universityName
-=======
-id unchecked
-id uniform
->>>>>>> master
 id unlabeled
 id up
 id useLogo
 id view_offset_helper
+id viewmystudypartnerbtn
 id visible
 id wide
 id withText
@@ -2175,28 +2162,27 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_about_us
-layout activity_add_patner
-<<<<<<< HEAD
-layout activity_amni
+layout activity_chat
 layout activity_find_tutor
 layout activity_findstudyp
-=======
-layout activity_find_tutor
->>>>>>> master
 layout activity_home_page
 layout activity_join_tutor
 layout activity_log_in
 layout activity_main
+layout activity_mystudypartner_list
 layout activity_profile
-<<<<<<< HEAD
 layout activity_pview
-=======
->>>>>>> master
 layout activity_registration
+layout activity_request_list
+layout activity_request_view_profile
+layout activity_sellinformation
+layout activity_shop_list
 layout activity_splash_screen
 layout activity_store
 layout activity_studypartner
+layout activity_studypatnersent_massage
 layout activity_xyz
+layout adapter_message_one
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog
@@ -2245,7 +2231,6 @@ layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
 layout notification_action
 layout notification_action_tombstone
-<<<<<<< HEAD
 layout notification_media_action
 layout notification_media_cancel_action
 layout notification_template_big_media
@@ -2257,19 +2242,12 @@ layout notification_template_icon_group
 layout notification_template_lines_media
 layout notification_template_media
 layout notification_template_media_custom
-=======
-layout notification_template_custom_big
-layout notification_template_icon_group
->>>>>>> master
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
-<<<<<<< HEAD
 layout singlerow
-=======
->>>>>>> master
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_chip_zero_corner_radius
@@ -2285,9 +2263,11 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+layout tutorsinglerow
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+raw credential
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -2351,10 +2331,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
-<<<<<<< HEAD
 string hello_blank_fragment
-=======
->>>>>>> master
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2754,7 +2731,6 @@ style TextAppearance_AppCompat_Widget_Switch
 style TextAppearance_AppCompat_Widget_TextView_SpinnerItem
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
-<<<<<<< HEAD
 style TextAppearance_Compat_Notification_Info_Media
 style TextAppearance_Compat_Notification_Line2
 style TextAppearance_Compat_Notification_Line2_Media
@@ -2763,11 +2739,6 @@ style TextAppearance_Compat_Notification_Time
 style TextAppearance_Compat_Notification_Time_Media
 style TextAppearance_Compat_Notification_Title
 style TextAppearance_Compat_Notification_Title_Media
-=======
-style TextAppearance_Compat_Notification_Line2
-style TextAppearance_Compat_Notification_Time
-style TextAppearance_Compat_Notification_Title
->>>>>>> master
 style TextAppearance_Design_CollapsingToolbar_Expanded
 style TextAppearance_Design_Counter
 style TextAppearance_Design_Counter_Overflow

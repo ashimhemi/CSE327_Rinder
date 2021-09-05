@@ -33,6 +33,10 @@ import java.util.List;
 import java.util.Objects;
 import java.util.UUID;
 
+/**
+ * This is my chat bot class
+ */
+
 public class chat extends AppCompatActivity implements BotReply {
     RecyclerView chatView;
     ChatAdapter chatAdapter;

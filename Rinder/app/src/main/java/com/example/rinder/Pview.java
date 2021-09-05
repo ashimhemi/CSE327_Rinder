@@ -10,7 +10,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -19,8 +18,6 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-
-import org.w3c.dom.Text;
 
 public class Pview extends AppCompatActivity {
 
@@ -88,7 +85,7 @@ public class Pview extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(),"Request Sent!",Toast.LENGTH_SHORT).show();
                 finish();
 
-                startActivity(new Intent(getApplicationContext(),findstudyp.class));*/
+                startActivity(new Intent(getApplicationContext(),Findstudyp.class));*/
 
 
                 mDatabaseUser= FirebaseDatabase.getInstance().getReference().child("users").child(user.getUid());
@@ -102,7 +99,7 @@ public class Pview extends AppCompatActivity {
                                 .child(mpostkey).child(user.getUid()).setValue(userProfileInfo);
                         finish();
 
-                        startActivity(new Intent(getApplicationContext(),findstudyp.class));
+                        startActivity(new Intent(getApplicationContext(), Findstudyp.class));
                     }
 
                     @Override
@@ -118,7 +115,7 @@ public class Pview extends AppCompatActivity {
     }
     @Override
     public void onBackPressed() {
-        Intent intent=new Intent(Pview.this,findstudyp.class);
+        Intent intent=new Intent(Pview.this, Findstudyp.class);
         finish();
         startActivity(intent);
     }

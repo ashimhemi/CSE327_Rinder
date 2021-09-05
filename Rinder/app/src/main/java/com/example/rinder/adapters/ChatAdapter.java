@@ -9,6 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+//import com.example.rinder.R;
 import com.example.rinder.R;
 import com.example.rinder.models.Message;
 

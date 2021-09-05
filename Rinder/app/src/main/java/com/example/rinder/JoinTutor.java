@@ -29,7 +29,7 @@ public class JoinTutor extends AppCompatActivity {
         setContentView(R.layout.activity_join_tutor);
         getSupportActionBar().hide();
         if (Build.VERSION.SDK_INT >= 21) {
-            getWindow().setStatusBarColor(ContextCompat.getColor(this,R.color.black2));
+            getWindow().setStatusBarColor(ContextCompat.getColor(this,R.color.bc));
         }//status bar or the time bar at the top
 
         tutorName=(EditText)findViewById(R.id.tutorName);

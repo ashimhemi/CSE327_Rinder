@@ -9,8 +9,6 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 
-import java.nio.channels.AlreadyBoundException;
-
 public class Home_page extends AppCompatActivity implements View.OnClickListener {
 
 
@@ -63,7 +61,7 @@ public class Home_page extends AppCompatActivity implements View.OnClickListener
                 startActivity(i);
                 break;
             case R.id.findStudypartner:
-                i = new Intent(this,findstudyp.class);
+                i = new Intent(this, Findstudyp.class);
                 startActivity(i);
                 break;
             case R.id.shop:
