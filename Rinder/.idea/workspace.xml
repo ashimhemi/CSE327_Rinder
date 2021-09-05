@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="pixel" />
+        <device id="pixel_2_xl" />
+        <device id="pixel_4_xl" />
+        <device id="Nexus 6P" />
+      </config>
     </shared>
   </component>
   <component name="AutoImportSettings">
@@ -15,7 +24,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\piyas\.android\avd\Pixel_XL_Edited_API_30.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Asus\.android\avd\Pixel_3a_API_30_x86.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -45,8 +54,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="resourceFile" />
-        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -57,12 +64,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.1018447936">
+    <key name="android.template.1465176498">
+      <recent name="com.example.rinder" />
+    </key>
+    <key name="android.template.-2007863648">
+      <recent name="com.example.rinder" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learning_folder\Rinder\app\src\main\res\drawable" />
+      <recent name="E:\Learning_folder\Rinder\app\src\main\res\raw" />
+      <recent name="E:\Learning_folder\Rinder\app\src\main\res\layout" />
+      <recent name="E:\Learning_folder\Rinder\app\src\main\java\com\example\rinder" />
+      <recent name="E:\Learning_folder\Rinder\app\src\main\res" />
+    </key>
+    <key name="android.template.-1561170180">
+      <recent name="com.example.rinder" />
+    </key>
+    <key name="android.template.-476067114">
       <recent name="com.example.rinder" />
     </key>
     <key name="android.template.356176028">
@@ -71,26 +96,26 @@
     <key name="android.template.-259507830">
       <recent name="com.example.rinder" />
     </key>
-    <key name="android.template.-1561170180">
+    <key name="android.template.1944073075">
       <recent name="com.example.rinder" />
     </key>
     <key name="android.template.1014078939">
       <recent name="com.example.rinder" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.rinder" />
+      <recent name="com.example.rinder.adapters" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.rinder" />
+    </key>
+    <key name="android.template.-388379312">
+      <recent name="com.example.rinder" />
+    </key>
     <key name="android.template.105350936">
       <recent name="com.example.rinder" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.example.rinder" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Learning_folder\Rinder\app\src\main\java\com\example\rinder" />
-      <recent name="E:\Learning_folder\Rinder\app\src\main\res\drawable" />
-      <recent name="E:\Learning_folder\Rinder\app\src\main\res\layout" />
-      <recent name="E:\Learning_folder\Rinder\app\src\main\res" />
-      <recent name="E:\Learning_folder\Rinder\app\src\main\res\drawable-v24" />
-    </key>
-    <key name="android.template.-476067114">
+    <key name="android.template.1018447936">
       <recent name="com.example.rinder" />
     </key>
   </component>

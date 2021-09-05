@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DesignSurface">
-    <option name="filePathToZoomLevelMap">
-      <map>
-        <entry key="..\:/Rinder/app/src/main/res/font/open_sans.xml" value="0.30104166666666665" />
-        <entry key="..\:/Rinder/app/src/main/res/layout-v21/activity_home_page.xml" value="0.2708333333333333" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_about_us.xml" value="0.22056159420289856" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_add_patner.xml" value="0.22056159420289856" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_find_tutor.xml" value="0.22056159420289856" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_home_page.xml" value="0.27447916666666666" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_log_in.xml" value="0.21739130434782608" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_profile.xml" value="0.27447916666666666" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_registration.xml" value="0.27447916666666666" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_store.xml" value="0.27447916666666666" />
-        <entry key="..\:/Rinder/app/src/main/res/layout/activity_xyz.xml" value="0.27447916666666666" />
-        <entry key="..\:/Users/piyas/AndroidStudioProjects/Rinder/app/src/main/res/layout-v21/activity_home_page.xml" value="0.2708333333333333" />
-        <entry key="..\:/Users/piyas/AndroidStudioProjects/Rinder/app/src/main/res/layout/activity_home_page.xml" value="0.2708333333333333" />
-        <entry key="..\:/Users/piyas/AndroidStudioProjects/Rinder/app/src/main/res/layout/activity_registration.xml" value="0.2708333333333333" />
-        <entry key="..\:/Users/piyas/AndroidStudioProjects/Rinder/app/src/main/res/layout/activity_store.xml" value="0.2708333333333333" />
-        <entry key="..\:/Users/piyas/AndroidStudioProjects/Rinder/app/src/main/res/layout/shop_2.xml" value="0.2708333333333333" />
-      </map>
-    </option>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop/javadoc" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="true" />
+    <option name="LOCALE" value="en" />
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/credential.json" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
