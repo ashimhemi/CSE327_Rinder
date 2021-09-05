@@ -22,11 +22,13 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Rinder" >
+        <activity android:name="com.example.rinder.ShopList" />
+        <activity android:name="com.example.rinder.Sellinformation" />
+        <activity android:name="com.example.rinder.StudypatnersentMassage" />
+        <activity android:name="com.example.rinder.MystudypartnerList" />
         <activity android:name="com.example.rinder.RequestViewProfile" />
         <activity android:name="com.example.rinder.RequestList" />
-        <activity android:name="com.example.rinder.tutorprofileview" />
-        <activity android:name="com.example.rinder.amni" />
-        <activity android:name="com.example.rinder.findstudyp" />
+        <activity android:name="com.example.rinder.Findstudyp" />
         <activity android:name="com.example.rinder.Pview" />
         <activity android:name="com.example.rinder.xyz" />
         <activity android:name="com.example.rinder.AboutUs" />

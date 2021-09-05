@@ -293,21 +293,6 @@
             ]
         },
         {
-            "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4_values-xlarge-v4.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,126,197,267,337,405",
-                        "endColumns": "70,70,69,69,67,67",
-                        "endOffsets": "121,192,262,332,400,468"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\values-mn_values-mn.arsc.flat",
             "map": [
                 {
@@ -376,6 +361,21 @@
                         "startOffsets": "105,219,319,428,514,620,734,817,898,989,1082,1177,1273,1370,1463,1557,1649,1740,1830,1910,2017,2120,2217,2324,2426,2539,2698,5501",
                         "endColumns": "113,99,108,85,105,113,82,80,90,92,94,95,96,92,93,91,90,89,79,106,102,96,106,101,112,158,98,80",
                         "endOffsets": "214,314,423,509,615,729,812,893,984,1077,1172,1268,1365,1458,1552,1644,1735,1825,1905,2012,2115,2212,2319,2421,2534,2693,2792,5577"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4_values-xlarge-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
                     }
                 }
             ]
@@ -2154,22 +2154,6 @@
             ]
         },
         {
-            "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\values-v25_values-v25.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-v25\\values-v25.xml",
-                    "from": {
-                        "startLines": "2,3,4,6",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,126,209,308",
-                        "endLines": "2,3,5,7",
-                        "endColumns": "70,82,12,12",
-                        "endOffsets": "121,204,303,414"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
             "map": [
                 {
@@ -2238,6 +2222,22 @@
                         "startOffsets": "3926",
                         "endColumns": "208",
                         "endOffsets": "4130"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Learning_folder\\Rinder\\app\\build\\intermediates\\res\\merged\\debug\\values-v25_values-v25.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asif\\.gradle\\caches\\transforms-2\\files-2.1\\1cb13d72e278f5ec08d0070cb88f1daa\\appcompat-1.2.0\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
                     }
                 }
             ]

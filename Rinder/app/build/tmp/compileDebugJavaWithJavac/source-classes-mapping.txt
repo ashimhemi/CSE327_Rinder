@@ -4,22 +4,22 @@ com/example/rinder/Users.java
  com.example.rinder.Users
 com/example/rinder/Tutor.java
  com.example.rinder.Tutor
+com/example/rinder/books.java
+ com.example.rinder.books
+com/example/rinder/interfaces/BotReply.java
+ com.example.rinder.interfaces.BotReply
+com/example/rinder/Request.java
+ com.example.rinder.Request
+com/example/rinder/helpers/SendMessageInBg.java
+ com.example.rinder.helpers.SendMessageInBg
+com/example/rinder/model2.java
+ com.example.rinder.model2
 com/example/rinder/helpers/RequestJavaV2Task.java
  com.example.rinder.helpers.RequestJavaV2Task
 com/example/rinder/model.java
  com.example.rinder.model
-com/example/rinder/helpers/SendMessageInBg.java
- com.example.rinder.helpers.SendMessageInBg
-com/example/rinder/Request.java
- com.example.rinder.Request
-com/example/rinder/model2.java
- com.example.rinder.model2
-com/example/rinder/interfaces/BotReply.java
- com.example.rinder.interfaces.BotReply
 com/example/rinder/BuildConfig.java
  com.example.rinder.BuildConfig
-com/example/rinder/MystdyPartner.java
- com.example.rinder.MystdyPartner
 com/example/rinder/FindTutor.java
  com.example.rinder.FindTutor
  com.example.rinder.FindTutor$1
@@ -30,14 +30,21 @@ com/example/rinder/AboutUs.java
 com/example/rinder/adapters/ChatAdapter.java
  com.example.rinder.adapters.ChatAdapter
  com.example.rinder.adapters.ChatAdapter$MyViewHolder
-com/example/rinder/tutorprofileview.java
- com.example.rinder.tutorprofileview
+com/example/rinder/Findstudyp.java
+ com.example.rinder.Findstudyp
+ com.example.rinder.Findstudyp$1
+ com.example.rinder.Findstudyp$1$1
+ com.example.rinder.Findstudyp$PackageViewHolder
 com/example/rinder/xyz.java
  com.example.rinder.xyz
  com.example.rinder.xyz$1
 com/example/rinder/Pview.java
  com.example.rinder.Pview
  com.example.rinder.Pview$1
+ com.example.rinder.Pview$1$1
+com/example/rinder/Sellinformation.java
+ com.example.rinder.Sellinformation
+ com.example.rinder.Sellinformation$1
 com/example/rinder/Home_page.java
  com.example.rinder.Home_page
 com/example/rinder/RequestList.java
@@ -48,6 +55,7 @@ com/example/rinder/RequestList.java
 com/example/rinder/Studypartner.java
  com.example.rinder.Studypartner
  com.example.rinder.Studypartner$1
+ com.example.rinder.Studypartner$2
 com/example/rinder/Registration.java
  com.example.rinder.Registration
  com.example.rinder.Registration$1
@@ -65,24 +73,35 @@ com/example/rinder/Log_in.java
  com.example.rinder.Log_in$1$1
  com.example.rinder.Log_in$1$2
  com.example.rinder.Log_in$2
-com/example/rinder/amni.java
- com.example.rinder.amni
+com/example/rinder/ShopList.java
+ com.example.rinder.ShopList
+ com.example.rinder.ShopList$1
+ com.example.rinder.ShopList$2
+ com.example.rinder.ShopList$3
+ com.example.rinder.ShopList$4
 com/example/rinder/Store.java
  com.example.rinder.Store
+ com.example.rinder.Store$1
+ com.example.rinder.Store$2
 com/example/rinder/JoinTutor.java
  com.example.rinder.JoinTutor
  com.example.rinder.JoinTutor$1
+com/example/rinder/MystudypartnerList.java
+ com.example.rinder.MystudypartnerList
+ com.example.rinder.MystudypartnerList$1
+ com.example.rinder.MystudypartnerList$1$1
+ com.example.rinder.MystudypartnerList$PackageViewHolder
 com/example/rinder/Profile.java
  com.example.rinder.Profile
+ com.example.rinder.Profile$1
+com/example/rinder/Book.java
+ com.example.rinder.Book
 com/example/rinder/Splash_screen.java
  com.example.rinder.Splash_screen
 com/example/rinder/chat.java
  com.example.rinder.chat
  com.example.rinder.chat$1
-com/example/rinder/findstudyp.java
- com.example.rinder.findstudyp
- com.example.rinder.findstudyp$1
- com.example.rinder.findstudyp$1$1
- com.example.rinder.findstudyp$PackageViewHolder
+com/example/rinder/StudypatnersentMassage.java
+ com.example.rinder.StudypatnersentMassage
 com/example/rinder/MainActivity.java
  com.example.rinder.MainActivity

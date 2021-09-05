@@ -11,9 +11,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Rinder">
+        <activity android:name=".ShopList"></activity>
+        <activity android:name=".Sellinformation" />
+        <activity android:name=".StudypatnersentMassage" />
+        <activity android:name=".MystudypartnerList" />
+        <activity android:name=".RequestViewProfile" />
+        <activity android:name=".RequestList" />
+        <activity android:name=".Findstudyp" />
+        <activity android:name=".Pview" />
         <activity android:name=".xyz" />
         <activity android:name=".AboutUs" />
+        <activity android:name=".chat" />
+        <activity android:name=".FindTutor" />
+        <activity android:name=".JoinTutor" />
+        <activity android:name=".Studypartner" />
+        <activity android:name=".Profile" />
         <activity android:name=".Registration" />
+        <activity android:name=".Store" />
         <activity android:name=".Log_in">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,6 +35,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Splash_screen" />
+        <activity android:name=".Home_page" />
         <activity android:name=".MainActivity" />
     </application>
 

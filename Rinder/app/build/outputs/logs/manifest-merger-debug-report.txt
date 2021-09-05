@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-43:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\cca2a89947f3e9f585989d2d12f76c42\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\7427ca4d40460f4af497d743cc6eaaa6\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\01f5fdc45d0fc3851f82dc65c7c4807a\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
@@ -60,20 +60,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asif\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\ae78db4e9ced623c9a773b898681dcf6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\1fd13427d2914f7dac5f9d53cce37308\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\7aae92c28b2be91110890bdeba79710f\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-43:12
 	package
 		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-41:12
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-43:12
 		INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-41:12
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:1-43:12
 		INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:2:11-69
@@ -90,7 +90,7 @@ MERGED from [com.loopj.android:android-async-http:1.4.11] C:\Users\Asif\.gradle\
 	android:name
 		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:7:5-39:19
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:7:5-41:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\7427ca4d40460f4af497d743cc6eaaa6\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\7427ca4d40460f4af497d743cc6eaaa6\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Asif\.gradle\caches\transforms-2\files-2.1\01f5fdc45d0fc3851f82dc65c7c4807a\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
@@ -131,92 +131,100 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\As
 		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:13:9-44
+activity#com.example.rinder.ShopList
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:9-55
+	android:name
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:19-43
+activity#com.example.rinder.Sellinformation
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:15:9-53
+	android:name
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:15:19-50
+activity#com.example.rinder.StudypatnersentMassage
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:16:9-60
+	android:name
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:16:19-57
+activity#com.example.rinder.MystudypartnerList
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:17:9-56
+	android:name
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:17:19-53
 activity#com.example.rinder.RequestViewProfile
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:9-65
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:18:9-56
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:14:19-53
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:18:19-53
 activity#com.example.rinder.RequestList
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:15:9-49
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:9-49
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:15:19-46
-activity#com.example.rinder.tutorprofileview
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:19-46
+activity#com.example.rinder.Findstudyp
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:9-48
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:16:19-51
-activity#com.example.rinder.amni
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:17:9-42
-	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:17:19-39
-activity#com.example.rinder.findstudyp
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:18:9-48
-	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:18:19-45
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:19-45
 activity#com.example.rinder.Pview
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:9-43
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:9-43
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:19:19-40
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:19-40
 activity#com.example.rinder.xyz
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:9-41
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:9-41
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:20:19-38
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:19-38
 activity#com.example.rinder.AboutUs
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:9-45
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:9-45
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:21:19-42
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:19-42
 activity#com.example.rinder.chat
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:9-42
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:9-42
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:22:19-39
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:19-39
 activity#com.example.rinder.FindTutor
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:9-47
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:9-47
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:23:19-44
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:19-44
 activity#com.example.rinder.JoinTutor
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:9-47
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:9-47
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:24:19-44
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:19-44
 activity#com.example.rinder.Studypartner
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:9-50
-	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:25:19-47
-activity#com.example.rinder.Profile
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:9-45
-	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:26:19-42
-activity#com.example.rinder.Registration
 ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:27:9-50
 	android:name
 		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.example.rinder.Profile
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:28:9-45
+	android:name
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:28:19-42
+activity#com.example.rinder.Registration
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:29:19-47
 activity#com.example.rinder.Store
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:28:9-43
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:30:9-43
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:28:19-40
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:30:19-40
 activity#com.example.rinder.Log_in
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:29:9-35:20
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:31:9-37:20
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:29:19-41
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:31:19-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:30:13-34:29
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:35:27-74
 activity#com.example.rinder.Splash_screen
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:36:9-51
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:38:9-51
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:36:19-48
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:38:19-48
 activity#com.example.rinder.Home_page
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:37:9-47
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:39:9-47
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:37:19-44
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:39:19-44
 activity#com.example.rinder.MainActivity
-ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:38:9-50
+ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:40:9-50
 	android:name
-		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:38:19-47
+		ADDED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml:40:19-47
 uses-sdk
 INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Learning_folder\Rinder\app\src\main\AndroidManifest.xml

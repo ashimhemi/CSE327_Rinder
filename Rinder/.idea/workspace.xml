@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
   <component name="AndroidLayouts">
     <shared>
       <config>
@@ -61,16 +65,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/example/rinder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.1018447936">
+    <key name="android.template.1465176498">
       <recent name="com.example.rinder" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
+    <key name="android.template.-2007863648">
+      <recent name="com.example.rinder" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learning_folder\Rinder\app\src\main\res\drawable" />
+      <recent name="E:\Learning_folder\Rinder\app\src\main\res\raw" />
+      <recent name="E:\Learning_folder\Rinder\app\src\main\res\layout" />
+      <recent name="E:\Learning_folder\Rinder\app\src\main\java\com\example\rinder" />
+      <recent name="E:\Learning_folder\Rinder\app\src\main\res" />
+    </key>
+    <key name="android.template.-1561170180">
+      <recent name="com.example.rinder" />
+    </key>
+    <key name="android.template.-476067114">
       <recent name="com.example.rinder" />
     </key>
     <key name="android.template.356176028">
@@ -79,36 +96,26 @@
     <key name="android.template.-259507830">
       <recent name="com.example.rinder" />
     </key>
-    <key name="android.template.-1561170180">
-      <recent name="com.example.rinder" />
-    </key>
-    <key name="android.template.-388379312">
+    <key name="android.template.1944073075">
       <recent name="com.example.rinder" />
     </key>
     <key name="android.template.1014078939">
-      <recent name="com.example.rinder" />
-    </key>
-    <key name="android.template.105350936">
-      <recent name="com.example.rinder" />
-    </key>
-    <key name="android.template.-476067114">
       <recent name="com.example.rinder" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.rinder" />
       <recent name="com.example.rinder.adapters" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\rinder\Rinder\app\src\main\java\com\example\rinder" />
-      <recent name="E:\Learning_folder\Rinder\app\src\main\res\raw" />
-      <recent name="E:\Learning_folder\Rinder\app\src\main\res\drawable" />
-      <recent name="E:\Learning_folder\Rinder\app\src\main\res\layout" />
-      <recent name="E:\Learning_folder\Rinder\app\src\main\java\com\example\rinder" />
-    </key>
-    <key name="android.template.1465176498">
+    <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.rinder" />
     </key>
-    <key name="android.template.-2007863648">
+    <key name="android.template.-388379312">
+      <recent name="com.example.rinder" />
+    </key>
+    <key name="android.template.105350936">
+      <recent name="com.example.rinder" />
+    </key>
+    <key name="android.template.1018447936">
       <recent name="com.example.rinder" />
     </key>
   </component>
@@ -245,22 +252,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="286" y="163" key="#PSD/0.0.1536.834@0.0.1536.834" timestamp="1630525990519" />
-    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1630600227312">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="-1346" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1630789740638">
+      <screen x="-1920" y="0" width="1536" height="834" />
     </state>
-    <state x="-1346" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1629569786546" />
+    <state x="-1346" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1630789740638" />
     <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1629817575178" />
-    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1630600227312" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1630615859066" />
     <state x="551" y="286" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1626091150152">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="551" y="286" width="433" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1626091150152" />
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1630611473280">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1630665622360">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1630611473280" />
     <state x="-1421" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1629574494978" />
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1630598032418" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1630665622360" />
+    <state x="-1386" y="122" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1630788057421">
+      <screen x="-1920" y="0" width="1536" height="834" />
+    </state>
+    <state x="-1386" y="122" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1630788057421" />
+    <state x="534" y="122" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1630701491553" />
     <state x="349" y="172" key="AndroidCreateResourceDirectoryDialog" timestamp="1630524473706">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -269,43 +280,56 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="349" y="172" key="AndroidCreateResourceFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1630524424419" />
-    <state x="559" y="163" key="AndroidProcessChooserDialog" timestamp="1630004671645">
+    <state x="559" y="163" key="AndroidProcessChooserDialog" timestamp="1630618303377">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="559" y="163" key="AndroidProcessChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1630004671645" />
-    <state x="997" y="184" key="FileChooserDialogImpl" timestamp="1630527035805">
+    <state x="559" y="163" key="AndroidProcessChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1630618303377" />
+    <state x="997" y="184" key="FileChooserDialogImpl" timestamp="1630685433583">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="997" y="184" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1630685433583" />
     <state x="997" y="184" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1630527035805" />
-    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1629399889286">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1630790362890">
+      <screen x="-1920" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1630790362890" />
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1630702291658" />
     <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1629399889286" />
-    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1629399889285">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1630790362890">
+      <screen x="-1920" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1630790362890" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1630702291658" />
     <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1629399889285" />
-    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1629399889285">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1630790362889">
+      <screen x="-1920" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1630790362889" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1630702291658" />
     <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1629399889285" />
-    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1629399889285">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1630790362890">
+      <screen x="-1920" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1630790362890" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1536.834@0.0.1536.834" timestamp="1630702291658" />
     <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1629399889285" />
     <state x="349" y="160" key="IDE.errors.dialog" timestamp="1630492361761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="-1571" y="160" key="IDE.errors.dialog/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1629559018517" />
     <state x="349" y="160" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1630492361761" />
-    <state x="279" y="200" key="chooseDestDirectoryDialog" timestamp="1630423233861">
+    <state x="279" y="200" key="chooseDestDirectoryDialog" timestamp="1630609316866">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="-1641" y="200" key="chooseDestDirectoryDialog/0.0.1536.834/-1920.0.1536.834@-1920.0.1536.834" timestamp="1629564794319" />
-    <state x="279" y="200" key="chooseDestDirectoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1630423233861" />
+    <state x="279" y="200" key="chooseDestDirectoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1630609316866" />
     <state x="425" y="189" width="672" height="677" key="run.anything.popup" timestamp="1629399829253">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1629399829253" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1630614535096">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1630614535096" />
   </component>
 </project>
